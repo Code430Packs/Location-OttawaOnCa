@@ -5,12 +5,12 @@ district, built from OpenStreetMap.
 
 | District | Pack | Area | Version |
 |---|---|---|---|
-| Centretown | `packs/centretown` (`code430.ottawa-centretown`) | about 3.3 × 3.1 km, around Parliament Hill, the Rideau Canal and the 417 | 0.2.0 |
+| Centretown | `packs/centretown` (`code430.ottawa-centretown`) | chunks -7..6 on Ottawa's grid (about 3.6 × 3.6 km), around Parliament Hill, the Rideau Canal and the 417 | 0.3.0 |
 
 More districts (the Glebe, the ByWard Market, ...) join as their own packs beside Centretown,
 using Ottawa's pinned origin (lat 45.4200027, lon -75.6950007) and a border on its 256 m chunk
-grid; see `regions/README.md`. Centretown still uses its original bbox, and moves onto the grid
-at its next re-export (a breaking change, 0.3.0).
+grid; see `regions/README.md`. Centretown moved onto the grid in 0.3.0 (border chunks
+[-7, -7, 7, 7]).
 
 ## Rebuild a district
 From a checkout of the game at the commit in `code430.json`:

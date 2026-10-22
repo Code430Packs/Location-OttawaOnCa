@@ -6,6 +6,18 @@
  "authors": [
   "Code 430 contributors"
  ],
+ "build": {
+  "importer": "29a9de78ffe3",
+  "inputs": {
+   "bridges": "2026-10-22T19:43:55Z",
+   "buildings": "2026-10-22T19:42:51Z",
+   "parking": "2026-10-22T19:58:06Z",
+   "roads": "2026-10-22T19:40:51Z",
+   "services": "2026-10-22T20:27:36Z",
+   "vegetation": "2026-10-22T20:12:23Z",
+   "water": "2026-10-22T19:41:51Z"
+  }
+ },
  "dependencies": [],
  "description": "Generated from OpenStreetMap by tools/osm_import. Roads, junctions, and terrain for one district.",
  "engine_api": 0,
@@ -13,11 +25,19 @@
  "license": "ODbL-1.0",
  "map": {
   "bbox": [
-   45.405,
-   -75.715,
-   45.435,
-   -75.675
+   45.403732,
+   -75.718108,
+   45.4362689,
+   -75.6719063
   ],
+  "border": {
+   "chunks": [
+    -7,
+    -7,
+    7,
+    7
+   ]
+  },
   "crs": "EPSG:32618",
   "origin": {
    "easting": 445625.0,
@@ -29,5 +49,5 @@
  "name": "Ottawa Centretown",
  "schema_version": 0,
  "type": "map",
- "version": "0.2.0"
+ "version": "0.3.0"
 }
