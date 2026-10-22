@@ -1,0 +1,2834 @@
+{
+ "chunks": [
+  -14,
+  -7,
+  -7,
+  7
+ ],
+ "crossings": [
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w936874900.1",
+   "heading": [
+    0.9997,
+    -0.0254
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b126",
+   "osm_way_id": 936874900,
+   "position": [
+    -1792.0,
+    50.498,
+    -1535.713
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w681423187.0",
+   "heading": [
+    0.9994,
+    -0.0346
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b84",
+   "osm_way_id": 681423187,
+   "position": [
+    -1792.0,
+    51.242,
+    -1488.875
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w681423188.0",
+   "heading": [
+    0.9995,
+    -0.0316
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b85",
+   "osm_way_id": 681423188,
+   "position": [
+    -1792.0,
+    51.922,
+    -1471.181
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w308154219.0",
+   "heading": [
+    0.9967,
+    -0.0812
+   ],
+   "lanes_in": 4,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b53",
+   "osm_way_id": 308154219,
+   "position": [
+    -1792.0,
+    52.508,
+    -1407.002
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 14.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w308153728.0",
+   "heading": [
+    0.997,
+    -0.0776
+   ],
+   "lanes_in": 0,
+   "lanes_out": 3,
+   "layer": 0,
+   "node": "b52",
+   "osm_way_id": 308153728,
+   "position": [
+    -1792.0,
+    52.525,
+    -1391.96
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w949834766.0",
+   "heading": [
+    0.9979,
+    -0.0653
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b127",
+   "osm_way_id": 949834766,
+   "position": [
+    -1792.0,
+    50.534,
+    -1342.304
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w681914199.0",
+   "heading": [
+    0.0604,
+    0.9982
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b86",
+   "osm_way_id": 681914199,
+   "position": [
+    -1792.0,
+    47.332,
+    -1302.267
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w815758067.4",
+   "heading": [
+    0.9991,
+    -0.0414
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b122",
+   "osm_way_id": 815758067,
+   "position": [
+    -1792.0,
+    46.884,
+    -1272.057
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w1011258041.0",
+   "heading": [
+    0.9993,
+    -0.0372
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b1",
+   "osm_way_id": 1011258041,
+   "position": [
+    -1792.0,
+    49.321,
+    -1200.508
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w815760229.0",
+   "heading": [
+    0.999,
+    -0.0438
+   ],
+   "lanes_in": 1,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b123",
+   "osm_way_id": 815760229,
+   "position": [
+    -1792.0,
+    61.856,
+    -1017.241
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w461337309.2",
+   "heading": [
+    0.9988,
+    -0.0492
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b66",
+   "osm_way_id": 461337309,
+   "position": [
+    -1792.0,
+    62.222,
+    -941.039
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w39452955.3",
+   "heading": [
+    0.9992,
+    -0.04
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b59",
+   "osm_way_id": 39452955,
+   "position": [
+    -1792.0,
+    62.929,
+    -865.133
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w993686598.0",
+   "heading": [
+    0.9985,
+    -0.0543
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b128",
+   "osm_way_id": 993686598,
+   "position": [
+    -1792.0,
+    66.39,
+    -795.251
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w590856945.1",
+   "heading": [
+    0.9986,
+    -0.0526
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b81",
+   "osm_way_id": 590856945,
+   "position": [
+    -1792.0,
+    64.738,
+    -704.004
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w681974172.0",
+   "heading": [
+    0.9999,
+    -0.0161
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b87",
+   "osm_way_id": 681974172,
+   "position": [
+    -1792.0,
+    62.47,
+    -678.487
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "tertiary",
+   "edge": "w104184626.4",
+   "heading": [
+    0.8871,
+    -0.4616
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b3",
+   "osm_way_id": 104184626,
+   "position": [
+    -1792.0,
+    58.182,
+    -587.437
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w834841319.0",
+   "heading": [
+    0.4121,
+    0.9111
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b124",
+   "osm_way_id": 834841319,
+   "position": [
+    -1792.0,
+    58.179,
+    -586.357
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w681974181.1",
+   "heading": [
+    0.9626,
+    -0.2709
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b88",
+   "osm_way_id": 681974181,
+   "position": [
+    -1792.0,
+    55.011,
+    -546.711
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w308158678.1",
+   "heading": [
+    0.972,
+    -0.235
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b54",
+   "osm_way_id": 308158678,
+   "position": [
+    -1792.0,
+    53.569,
+    -523.931
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w308158680.0",
+   "heading": [
+    0.9762,
+    -0.2168
+   ],
+   "lanes_in": 0,
+   "lanes_out": 3,
+   "layer": 0,
+   "node": "b55",
+   "osm_way_id": 308158680,
+   "position": [
+    -1792.0,
+    53.526,
+    -513.373
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w701099225.0",
+   "heading": [
+    0.9995,
+    0.0321
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b96",
+   "osm_way_id": 701099225,
+   "position": [
+    -1792.0,
+    53.657,
+    -412.505
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w683569735.1",
+   "heading": [
+    0.9945,
+    0.1048
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b89",
+   "osm_way_id": 683569735,
+   "position": [
+    -1792.0,
+    53.429,
+    -391.471
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w1282544534.0",
+   "heading": [
+    1.0,
+    -0.0045
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b24",
+   "osm_way_id": 1282544534,
+   "position": [
+    -1792.0,
+    48.922,
+    -332.578
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w538377173.0",
+   "heading": [
+    0.3803,
+    0.9249
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b74",
+   "osm_way_id": 538377173,
+   "position": [
+    -1792.0,
+    47.863,
+    -77.889
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w551942815.0",
+   "heading": [
+    0.902,
+    -0.4317
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b80",
+   "osm_way_id": 551942815,
+   "position": [
+    -1792.0,
+    48.785,
+    -67.003
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w551942811.0",
+   "heading": [
+    0.9128,
+    -0.4084
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 1,
+   "node": "b79",
+   "osm_way_id": 551942811,
+   "position": [
+    -1792.0,
+    53.722,
+    107.542
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w4852253.2",
+   "heading": [
+    0.9452,
+    -0.3265
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b70",
+   "osm_way_id": 4852253,
+   "position": [
+    -1792.0,
+    56.876,
+    391.89
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "trunk",
+   "edge": "w432376148.0",
+   "heading": [
+    0.8222,
+    -0.5692
+   ],
+   "lanes_in": 3,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b61",
+   "osm_way_id": 432376148,
+   "position": [
+    -1792.0,
+    56.813,
+    562.479
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 14.0
+  },
+  {
+   "bridge": false,
+   "class": "trunk",
+   "edge": "w432376149.0",
+   "heading": [
+    0.8227,
+    -0.5684
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b62",
+   "osm_way_id": 432376149,
+   "position": [
+    -1792.0,
+    56.874,
+    576.608
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w407674277.0",
+   "heading": [
+    0.8619,
+    -0.507
+   ],
+   "lanes_in": 4,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b60",
+   "osm_way_id": 407674277,
+   "position": [
+    -1792.0,
+    58.437,
+    1013.901
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 21.0
+  },
+  {
+   "bridge": false,
+   "class": "living_street",
+   "edge": "w305081739.0",
+   "heading": [
+    0.9376,
+    -0.3477
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b50",
+   "osm_way_id": 305081739,
+   "position": [
+    -1792.0,
+    58.513,
+    1066.545
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "living_street",
+   "edge": "w76423869.0",
+   "heading": [
+    0.9022,
+    -0.4312
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b111",
+   "osm_way_id": 76423869,
+   "position": [
+    -1792.0,
+    58.527,
+    1100.166
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "living_street",
+   "edge": "w305081740.2",
+   "heading": [
+    0.3663,
+    0.9305
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b51",
+   "osm_way_id": 305081740,
+   "position": [
+    -1792.0,
+    58.55,
+    1108.992
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76422341.0",
+   "heading": [
+    0.9212,
+    -0.389
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b108",
+   "osm_way_id": 76422341,
+   "position": [
+    -1792.0,
+    55.394,
+    1219.627
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w539939275.1",
+   "heading": [
+    0.3784,
+    0.9256
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b77",
+   "osm_way_id": 539939275,
+   "position": [
+    -1792.0,
+    55.311,
+    1227.903
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w688779336.1",
+   "heading": [
+    0.92,
+    -0.3918
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b91",
+   "osm_way_id": 688779336,
+   "position": [
+    -1792.0,
+    54.84,
+    1269.295
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w484816105.0",
+   "heading": [
+    0.3849,
+    0.9229
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b69",
+   "osm_way_id": 484816105,
+   "position": [
+    -1792.0,
+    55.229,
+    1286.746
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w484816102.1",
+   "heading": [
+    0.9887,
+    -0.1497
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b68",
+   "osm_way_id": 484816102,
+   "position": [
+    -1792.0,
+    56.65,
+    1368.621
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w1110377572.0",
+   "heading": [
+    0.9136,
+    -0.4067
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b9",
+   "osm_way_id": 1110377572,
+   "position": [
+    -1792.0,
+    57.539,
+    1377.424
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w76423261.0",
+   "heading": [
+    0.9237,
+    -0.383
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b110",
+   "osm_way_id": 76423261,
+   "position": [
+    -1792.0,
+    60.339,
+    1393.154
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w694104402.0",
+   "heading": [
+    0.407,
+    0.9134
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b95",
+   "osm_way_id": 694104402,
+   "position": [
+    -1792.0,
+    63.533,
+    1601.413
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w532069196.0",
+   "heading": [
+    0.929,
+    -0.37
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b73",
+   "osm_way_id": 532069196,
+   "position": [
+    -1792.0,
+    64.142,
+    1652.548
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w1310620256.0",
+   "heading": [
+    0.9274,
+    -0.3741
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b25",
+   "osm_way_id": 1310620256,
+   "position": [
+    -1792.0,
+    64.596,
+    1671.153
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w1310620256.0",
+   "heading": [
+    0.3764,
+    0.9265
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b26",
+   "osm_way_id": 1310620256,
+   "position": [
+    -1792.0,
+    64.749,
+    1690.144
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76422397.0",
+   "heading": [
+    0.3824,
+    0.924
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b109",
+   "osm_way_id": 76422397,
+   "position": [
+    -1792.0,
+    65.096,
+    1741.132
+   ],
+   "side": "east",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12374619.2",
+   "heading": [
+    0.0915,
+    -0.9958
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b17",
+   "osm_way_id": 12374619,
+   "position": [
+    -3450.264,
+    71.649,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w1240264280.0",
+   "heading": [
+    0.006,
+    -1.0
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b22",
+   "osm_way_id": 1240264280,
+   "position": [
+    -3281.47,
+    70.428,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w1358236377.0",
+   "heading": [
+    0.0109,
+    -0.9999
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b27",
+   "osm_way_id": 1358236377,
+   "position": [
+    -3169.816,
+    69.81,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w1536877144.4",
+   "heading": [
+    0.1035,
+    -0.9946
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b32",
+   "osm_way_id": 1536877144,
+   "position": [
+    -3129.128,
+    69.722,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w104335558.1",
+   "heading": [
+    0.0538,
+    -0.9986
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b6",
+   "osm_way_id": 104335558,
+   "position": [
+    -3055.863,
+    68.956,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w1536877145.11",
+   "heading": [
+    0.046,
+    -0.9989
+   ],
+   "lanes_in": 2,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b33",
+   "osm_way_id": 1536877145,
+   "position": [
+    -2960.249,
+    67.769,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 14.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w793034675.0",
+   "heading": [
+    0.0136,
+    -0.9999
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b121",
+   "osm_way_id": 793034675,
+   "position": [
+    -2925.553,
+    65.22,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12373167.10",
+   "heading": [
+    0.0531,
+    -0.9986
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b14",
+   "osm_way_id": 12373167,
+   "position": [
+    -2882.264,
+    62.179,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w693578293.1",
+   "heading": [
+    0.057,
+    -0.9984
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b94",
+   "osm_way_id": 693578293,
+   "position": [
+    -2835.429,
+    58.894,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w693578293.1",
+   "heading": [
+    0.0698,
+    -0.9976
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b93",
+   "osm_way_id": 693578293,
+   "position": [
+    -2819.381,
+    58.344,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12373789.0",
+   "heading": [
+    0.1286,
+    -0.9917
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b15",
+   "osm_way_id": 12373789,
+   "position": [
+    -2715.822,
+    53.285,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "motorway",
+   "edge": "w1443597678.0",
+   "heading": [
+    0.3332,
+    -0.9428
+   ],
+   "lanes_in": 3,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b30",
+   "osm_way_id": 1443597678,
+   "position": [
+    -2515.646,
+    52.01,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 14.0
+  },
+  {
+   "bridge": false,
+   "class": "motorway",
+   "edge": "w1443601661.0",
+   "heading": [
+    0.2136,
+    -0.9769
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b31",
+   "osm_way_id": 1443601661,
+   "position": [
+    -2471.883,
+    50.8,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w104403014.0",
+   "heading": [
+    -0.041,
+    -0.9992
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b7",
+   "osm_way_id": 104403014,
+   "position": [
+    -2156.558,
+    51.887,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w461324749.0",
+   "heading": [
+    -0.3157,
+    -0.9489
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b65",
+   "osm_way_id": 461324749,
+   "position": [
+    -2113.833,
+    51.229,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w461324748.0",
+   "heading": [
+    -0.0784,
+    -0.9969
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b64",
+   "osm_way_id": 461324748,
+   "position": [
+    -2107.152,
+    51.106,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w197067071.1",
+   "heading": [
+    -0.108,
+    -0.9942
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b48",
+   "osm_way_id": 197067071,
+   "position": [
+    -2027.405,
+    51.288,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w10319862.1",
+   "heading": [
+    -0.0933,
+    -0.9956
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b2",
+   "osm_way_id": 10319862,
+   "position": [
+    -1953.926,
+    50.201,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w115656783.0",
+   "heading": [
+    -0.1052,
+    -0.9945
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b12",
+   "osm_way_id": 115656783,
+   "position": [
+    -1850.32,
+    49.702,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w104403018.0",
+   "heading": [
+    -0.089,
+    -0.996
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b8",
+   "osm_way_id": 104403018,
+   "position": [
+    -1827.837,
+    48.583,
+    -1792.0
+   ],
+   "side": "north",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w752108887.0",
+   "heading": [
+    -0.9231,
+    0.3846
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b100",
+   "osm_way_id": 752108887,
+   "position": [
+    -3573.493,
+    62.11,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w112461892.0",
+   "heading": [
+    0.3735,
+    0.9276
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b10",
+   "osm_way_id": 112461892,
+   "position": [
+    -3567.008,
+    62.108,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w76692024.1",
+   "heading": [
+    0.3618,
+    0.9322
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b116",
+   "osm_way_id": 76692024,
+   "position": [
+    -3385.898,
+    61.808,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w76692027.0",
+   "heading": [
+    -0.9236,
+    0.3834
+   ],
+   "lanes_in": 1,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b117",
+   "osm_way_id": 76692027,
+   "position": [
+    -3357.864,
+    61.7,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w728153509.0",
+   "heading": [
+    -0.9239,
+    0.3826
+   ],
+   "lanes_in": 0,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b97",
+   "osm_way_id": 728153509,
+   "position": [
+    -3312.63,
+    61.381,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w1217873586.0",
+   "heading": [
+    -0.8778,
+    0.479
+   ],
+   "lanes_in": 0,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b13",
+   "osm_way_id": 1217873586,
+   "position": [
+    -3249.314,
+    60.646,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w728153511.0",
+   "heading": [
+    -0.8625,
+    0.506
+   ],
+   "lanes_in": 1,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b98",
+   "osm_way_id": 728153511,
+   "position": [
+    -3232.551,
+    60.709,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w1384246953.0",
+   "heading": [
+    -0.8598,
+    0.5106
+   ],
+   "lanes_in": 2,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b28",
+   "osm_way_id": 1384246953,
+   "position": [
+    -3122.907,
+    61.063,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "tertiary",
+   "edge": "w513539121.0",
+   "heading": [
+    0.3952,
+    0.9186
+   ],
+   "lanes_in": 3,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b71",
+   "osm_way_id": 513539121,
+   "position": [
+    -3087.509,
+    60.855,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 17.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w752026260.0",
+   "heading": [
+    0.393,
+    0.9196
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b99",
+   "osm_way_id": 752026260,
+   "position": [
+    -2950.012,
+    61.126,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w64880469.1",
+   "heading": [
+    -0.9633,
+    0.2686
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b83",
+   "osm_way_id": 64880469,
+   "position": [
+    -2945.948,
+    61.181,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w539549052.0",
+   "heading": [
+    0.3382,
+    0.9411
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b76",
+   "osm_way_id": 539549052,
+   "position": [
+    -2907.339,
+    61.358,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w359677800.0",
+   "heading": [
+    0.3822,
+    0.9241
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b57",
+   "osm_way_id": 359677800,
+   "position": [
+    -2821.979,
+    62.104,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76419492.0",
+   "heading": [
+    0.3775,
+    0.926
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b104",
+   "osm_way_id": 76419492,
+   "position": [
+    -2734.488,
+    62.466,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76419962.4",
+   "heading": [
+    0.369,
+    0.9294
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b106",
+   "osm_way_id": 76419962,
+   "position": [
+    -2647.925,
+    63.634,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w83886048.6",
+   "heading": [
+    0.3745,
+    0.9272
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b125",
+   "osm_way_id": 83886048,
+   "position": [
+    -2568.7,
+    63.664,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76424486.1",
+   "heading": [
+    0.383,
+    0.9238
+   ],
+   "lanes_in": 1,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b112",
+   "osm_way_id": 76424486,
+   "position": [
+    -2493.295,
+    63.156,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76417954.3",
+   "heading": [
+    -0.558,
+    0.8299
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b102",
+   "osm_way_id": 76417954,
+   "position": [
+    -2433.116,
+    62.572,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76421494.2",
+   "heading": [
+    0.3806,
+    0.9247
+   ],
+   "lanes_in": 0,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b107",
+   "osm_way_id": 76421494,
+   "position": [
+    -2420.047,
+    62.599,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76417606.0",
+   "heading": [
+    0.3114,
+    0.9503
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b101",
+   "osm_way_id": 76417606,
+   "position": [
+    -2343.633,
+    64.135,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w359677802.3",
+   "heading": [
+    -0.567,
+    0.8237
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b58",
+   "osm_way_id": 359677802,
+   "position": [
+    -2342.048,
+    64.172,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161971140.0b1",
+   "heading": [
+    0.4307,
+    0.9025
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b34",
+   "osm_way_id": 161971140,
+   "position": [
+    -2283.666,
+    65.594,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161971140.0b2",
+   "heading": [
+    0.3389,
+    0.9408
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b35",
+   "osm_way_id": 161971140,
+   "position": [
+    -2234.043,
+    66.99,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w540928508.2",
+   "heading": [
+    0.499,
+    0.8666
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b78",
+   "osm_way_id": 540928508,
+   "position": [
+    -2215.578,
+    66.752,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w76419658.0",
+   "heading": [
+    0.3825,
+    0.924
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b105",
+   "osm_way_id": 76419658,
+   "position": [
+    -2117.94,
+    68.125,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w76692015.0",
+   "heading": [
+    0.382,
+    0.9242
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b115",
+   "osm_way_id": 76692015,
+   "position": [
+    -2060.67,
+    68.065,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w686141977.0",
+   "heading": [
+    0.3819,
+    0.9242
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b90",
+   "osm_way_id": 686141977,
+   "position": [
+    -2003.325,
+    67.764,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w76722737.0",
+   "heading": [
+    0.3823,
+    0.924
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b118",
+   "osm_way_id": 76722737,
+   "position": [
+    -1946.51,
+    68.151,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "tertiary",
+   "edge": "w76418683.0",
+   "heading": [
+    0.3893,
+    0.9211
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b103",
+   "osm_way_id": 76418683,
+   "position": [
+    -1886.524,
+    67.072,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w76691681.0",
+   "heading": [
+    0.3821,
+    0.9241
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b113",
+   "osm_way_id": 76691681,
+   "position": [
+    -1826.917,
+    68.914,
+    1792.0
+   ],
+   "side": "south",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12374547.0",
+   "heading": [
+    -1.0,
+    -0.0037
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b16",
+   "osm_way_id": 12374547,
+   "position": [
+    -3584.0,
+    71.798,
+    -1718.94
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w1432070120.0",
+   "heading": [
+    -0.9998,
+    -0.0198
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b29",
+   "osm_way_id": 1432070120,
+   "position": [
+    -3584.0,
+    71.308,
+    -1634.963
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "primary",
+   "edge": "w313343898.0",
+   "heading": [
+    -0.9994,
+    -0.0359
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b56",
+   "osm_way_id": 313343898,
+   "position": [
+    -3584.0,
+    69.476,
+    -1408.456
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "primary",
+   "edge": "w104288801.0",
+   "heading": [
+    -1.0,
+    0.0065
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b5",
+   "osm_way_id": 104288801,
+   "position": [
+    -3584.0,
+    69.483,
+    -1396.049
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w104276916.2",
+   "heading": [
+    -0.9994,
+    -0.0346
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b4",
+   "osm_way_id": 104276916,
+   "position": [
+    -3584.0,
+    69.28,
+    -1368.196
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12379714.0",
+   "heading": [
+    -0.9985,
+    -0.0555
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b21",
+   "osm_way_id": 12379714,
+   "position": [
+    -3584.0,
+    68.872,
+    -1287.097
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12379566.0",
+   "heading": [
+    -0.9972,
+    -0.0747
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b20",
+   "osm_way_id": 12379566,
+   "position": [
+    -3584.0,
+    66.895,
+    -1209.074
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12378856.0",
+   "heading": [
+    -0.9989,
+    -0.046
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b19",
+   "osm_way_id": 12378856,
+   "position": [
+    -3584.0,
+    64.692,
+    -1125.448
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12378683.0",
+   "heading": [
+    -0.9936,
+    -0.1129
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b18",
+   "osm_way_id": 12378683,
+   "position": [
+    -3584.0,
+    62.134,
+    -1042.489
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "tertiary",
+   "edge": "w477444855.0",
+   "heading": [
+    -0.6923,
+    -0.7216
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b67",
+   "osm_way_id": 477444855,
+   "position": [
+    -3584.0,
+    62.057,
+    -1028.577
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w792755517.0",
+   "heading": [
+    -0.9652,
+    -0.2615
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b120",
+   "osm_way_id": 792755517,
+   "position": [
+    -3584.0,
+    83.213,
+    -624.694
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "residential",
+   "edge": "w12550468.0",
+   "heading": [
+    -0.9983,
+    0.0583
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b23",
+   "osm_way_id": 12550468,
+   "position": [
+    -3584.0,
+    81.548,
+    -544.249
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "secondary",
+   "edge": "w461136749.2",
+   "heading": [
+    -0.982,
+    0.1888
+   ],
+   "lanes_in": 2,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b63",
+   "osm_way_id": 461136749,
+   "position": [
+    -3584.0,
+    69.316,
+    -322.657
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w162003779.0",
+   "heading": [
+    -0.8048,
+    -0.5936
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b42",
+   "osm_way_id": 162003779,
+   "position": [
+    -3584.0,
+    66.585,
+    -228.948
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w162116789.0",
+   "heading": [
+    -0.9962,
+    0.0865
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b47",
+   "osm_way_id": 162116789,
+   "position": [
+    -3584.0,
+    65.001,
+    -210.033
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w162116779.0",
+   "heading": [
+    -0.9945,
+    0.1049
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b45",
+   "osm_way_id": 162116779,
+   "position": [
+    -3584.0,
+    64.468,
+    -195.737
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w162116778.3",
+   "heading": [
+    -0.9943,
+    0.1065
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b44",
+   "osm_way_id": 162116778,
+   "position": [
+    -3584.0,
+    63.8,
+    -178.957
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w162116776.0",
+   "heading": [
+    -0.1193,
+    -0.9929
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b43",
+   "osm_way_id": 162116776,
+   "position": [
+    -3584.0,
+    63.356,
+    -137.256
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w162116786.0",
+   "heading": [
+    -0.9966,
+    0.0826
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b46",
+   "osm_way_id": 162116786,
+   "position": [
+    -3584.0,
+    63.323,
+    -131.746
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w76726320.0",
+   "heading": [
+    -0.7827,
+    -0.6224
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b119",
+   "osm_way_id": 76726320,
+   "position": [
+    -3584.0,
+    58.697,
+    1099.412
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "trunk",
+   "edge": "w273500856.0",
+   "heading": [
+    -0.6531,
+    0.7572
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b49",
+   "osm_way_id": 273500856,
+   "position": [
+    -3584.0,
+    59.985,
+    1155.522
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 10.5
+  },
+  {
+   "bridge": false,
+   "class": "trunk",
+   "edge": "w598080092.0",
+   "heading": [
+    -0.6172,
+    0.7868
+   ],
+   "lanes_in": 3,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b82",
+   "osm_way_id": 598080092,
+   "position": [
+    -3584.0,
+    62.115,
+    1232.097
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 14.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w531816736.0",
+   "heading": [
+    -0.9231,
+    0.3845
+   ],
+   "lanes_in": 0,
+   "lanes_out": 2,
+   "layer": 0,
+   "node": "b72",
+   "osm_way_id": 531816736,
+   "position": [
+    -3584.0,
+    62.559,
+    1391.973
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w689711199.0",
+   "heading": [
+    -0.9245,
+    0.3813
+   ],
+   "lanes_in": 2,
+   "lanes_out": 0,
+   "layer": 0,
+   "node": "b92",
+   "osm_way_id": 689711199,
+   "position": [
+    -3584.0,
+    62.651,
+    1411.006
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161997153.2",
+   "heading": [
+    -0.9295,
+    0.3688
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b37",
+   "osm_way_id": 161997153,
+   "position": [
+    -3584.0,
+    63.612,
+    1545.421
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161997153.0",
+   "heading": [
+    -0.9322,
+    0.3621
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b36",
+   "osm_way_id": 161997153,
+   "position": [
+    -3584.0,
+    63.601,
+    1569.208
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 5.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w161997156.0",
+   "heading": [
+    -0.3446,
+    -0.9388
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b41",
+   "osm_way_id": 161997156,
+   "position": [
+    -3584.0,
+    63.613,
+    1573.112
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w539342007.0",
+   "heading": [
+    -0.9258,
+    0.3781
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b75",
+   "osm_way_id": 539342007,
+   "position": [
+    -3584.0,
+    63.64,
+    1597.558
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161997154.1",
+   "heading": [
+    -0.3601,
+    -0.9329
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b40",
+   "osm_way_id": 161997154,
+   "position": [
+    -3584.0,
+    63.634,
+    1598.454
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161997154.0b1",
+   "heading": [
+    -0.9257,
+    0.3782
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b38",
+   "osm_way_id": 161997154,
+   "position": [
+    -3584.0,
+    62.648,
+    1646.031
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "parking",
+   "edge": "w161997154.0b2",
+   "heading": [
+    -0.3778,
+    -0.9259
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b39",
+   "osm_way_id": 161997154,
+   "position": [
+    -3584.0,
+    62.643,
+    1647.807
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 3.5
+  },
+  {
+   "bridge": false,
+   "class": "service",
+   "edge": "w76691726.0",
+   "heading": [
+    -0.9272,
+    0.3747
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b114",
+   "osm_way_id": 76691726,
+   "position": [
+    -3584.0,
+    62.058,
+    1742.385
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  },
+  {
+   "bridge": false,
+   "class": "unclassified",
+   "edge": "w112461892.2",
+   "heading": [
+    -0.3827,
+    -0.9239
+   ],
+   "lanes_in": 1,
+   "lanes_out": 1,
+   "layer": 0,
+   "node": "b11",
+   "osm_way_id": 112461892,
+   "position": [
+    -3584.0,
+    62.131,
+    1750.872
+   ],
+   "side": "west",
+   "tunnel": false,
+   "width_m": 7.0
+  }
+ ],
+ "rect": [
+  -3584.0,
+  -1792.0,
+  -1792.0,
+  1792.0
+ ],
+ "schema_version": 0,
+ "units": "metres, local x east and z south"
+}

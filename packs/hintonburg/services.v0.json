@@ -1,0 +1,30 @@
+{
+ "places": [
+  {
+   "address": "1064 Wellington Street West",
+   "at": [
+    -2309.16,
+    64.61,
+    1782.04
+   ],
+   "id": "n7215289767",
+   "kind": "police",
+   "name": "Ottawa Police - Wellington Community Police Centre",
+   "road_node": "b34"
+  },
+  {
+   "address": "20 Rue Pharand",
+   "at": [
+    -3523.81,
+    82.98,
+    -679.67
+   ],
+   "id": "w537152652",
+   "kind": "hospital",
+   "name": "Centre Hospitalier Pierre-Janet",
+   "road_node": "n7412945437"
+  }
+ ],
+ "schema_version": 0,
+ "units": "metres, x east, z south; y the ground"
+}

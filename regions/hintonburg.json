@@ -1,0 +1,18 @@
+{
+  "name": "ottawa-hintonburg",
+  "origin": {
+    "lat": 45.4200027,
+    "lon": -75.6950007
+  },
+  "border": {
+    "chunks": [
+      -14,
+      -7,
+      -7,
+      7
+    ]
+  },
+  "pack_id": "code430.ottawa-hintonburg",
+  "pack_name": "Ottawa Hintonburg",
+  "dem": "hrdem"
+}

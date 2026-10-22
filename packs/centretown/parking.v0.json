@@ -469,18 +469,6 @@
    "side": "left"
   },
   {
-   "edge": "w539939275.0",
-   "orientation": "parallel",
-   "osm_way_id": 539939275,
-   "side": "left"
-  },
-  {
-   "edge": "w539939275.0",
-   "orientation": "parallel",
-   "osm_way_id": 539939275,
-   "side": "right"
-  },
-  {
    "edge": "w539939275.1",
    "orientation": "parallel",
    "osm_way_id": 539939275,
@@ -532,18 +520,6 @@
    "edge": "w604111203.1",
    "orientation": "parallel",
    "osm_way_id": 604111203,
-   "side": "right"
-  },
-  {
-   "edge": "w604111212.0",
-   "orientation": "parallel",
-   "osm_way_id": 604111212,
-   "side": "left"
-  },
-  {
-   "edge": "w604111212.0",
-   "orientation": "parallel",
-   "osm_way_id": 604111212,
    "side": "right"
   },
   {
@@ -1004,12 +980,6 @@
   },
   {
    "edge": "w76422397.0",
-   "orientation": "parallel",
-   "osm_way_id": 76422397,
-   "side": "right"
-  },
-  {
-   "edge": "w76422397.1",
    "orientation": "parallel",
    "osm_way_id": 76422397,
    "side": "right"
@@ -8520,11 +8490,6 @@
      -1746.45,
      62.51,
      -706.4
-    ],
-    [
-     -1803.22,
-     62.27,
-     -678.03
     ]
    ],
    "fee": "yes",
@@ -8568,8 +8533,8 @@
     ]
    ],
    "stall_dir": [
-    0.8945,
-    -0.447
+    0.8526,
+    -0.5225
    ]
   },
   {
@@ -11293,7 +11258,7 @@
     ]
    ],
    "fee": null,
-   "ground_y": 56.27,
+   "ground_y": 56.4,
    "id": "w1290469597.0",
    "kind": "surface",
    "name": null,
@@ -13122,18 +13087,13 @@
    "capacity": null,
    "entrances": [
     [
-     1806.92,
-     69.03,
-     -159.84
-    ],
-    [
      1736.99,
      68.99,
      -118.57
     ]
    ],
    "fee": null,
-   "ground_y": 69.11,
+   "ground_y": 69.19,
    "id": "w1304145081.0",
    "kind": "surface",
    "name": null,
@@ -13169,7 +13129,7 @@
     ]
    ],
    "stall_dir": [
-    0.8612,
+    0.8613,
     -0.5082
    ]
   },
@@ -13231,7 +13191,7 @@
     ]
    ],
    "fee": null,
-   "ground_y": 66.11,
+   "ground_y": 66.07,
    "id": "w1310620249.0",
    "kind": "street_side",
    "name": null,
@@ -13311,13 +13271,11 @@
   },
   {
    "access": null,
-   "aisles": [
-    "w694104401.0"
-   ],
+   "aisles": [],
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 63.98,
+   "ground_y": 63.77,
    "id": "w1310620258.0",
    "kind": "surface",
    "name": null,
@@ -13349,8 +13307,8 @@
     ]
    ],
    "stall_dir": [
-    0.9291,
-    -0.3698
+    0.9171,
+    -0.3986
    ]
   },
   {
@@ -13359,7 +13317,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 63.58,
+   "ground_y": 63.65,
    "id": "w1310620259.0",
    "kind": "surface",
    "name": null,
@@ -13405,7 +13363,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 63.61,
+   "ground_y": 63.66,
    "id": "w1310620261.0",
    "kind": "surface",
    "name": null,
@@ -13817,12 +13775,13 @@
   {
    "access": "private",
    "aisles": [
-    "w139570898.0"
+    "w139570898.0b1",
+    "w139570898.0b2"
    ],
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 53.47,
+   "ground_y": 53.52,
    "id": "w139570918.0",
    "kind": "surface",
    "name": null,
@@ -13890,8 +13849,8 @@
     ]
    ],
    "stall_dir": [
-    1.0,
-    0.0
+    0.9916,
+    -0.129
    ]
   },
   {
@@ -14699,19 +14658,11 @@
   },
   {
    "access": "customers",
-   "aisles": [
-    "w1560055728.0"
-   ],
+   "aisles": [],
    "capacity": null,
-   "entrances": [
-    [
-     -1795.38,
-     62.92,
-     -865.0
-    ]
-   ],
+   "entrances": [],
    "fee": null,
-   "ground_y": 63.4,
+   "ground_y": 63.57,
    "id": "w1560055729.0",
    "kind": "surface",
    "name": null,
@@ -14739,8 +14690,8 @@
     ]
    ],
    "stall_dir": [
-    0.0575,
-    0.9983
+    0.0682,
+    0.9977
    ]
   },
   {
@@ -14816,9 +14767,6 @@
     "w429538867.0",
     "w429538868.0",
     "w429538869.0",
-    "w429538870.0",
-    "w429538870.1",
-    "w429538870.2",
     "w429538870.3"
    ],
    "capacity": null,
@@ -14874,8 +14822,8 @@
     ]
    ],
    "stall_dir": [
-    0.9332,
-    -0.3593
+    1.0,
+    -0.0
    ]
   },
   {
@@ -14887,7 +14835,8 @@
     "w1310620256.0",
     "w1310620256.1",
     "w1310620256.2",
-    "w1310620256.3"
+    "w1310620256.3b1",
+    "w1310620256.3b2"
    ],
    "capacity": null,
    "entrances": [
@@ -14928,7 +14877,7 @@
     ]
    ],
    "fee": null,
-   "ground_y": 64.23,
+   "ground_y": 64.32,
    "id": "w161268612.0",
    "kind": "surface",
    "name": null,
@@ -17592,24 +17541,11 @@
   },
   {
    "access": null,
-   "aisles": [
-    "w484816105.1"
-   ],
+   "aisles": [],
    "capacity": null,
-   "entrances": [
-    [
-     -1814.82,
-     55.18,
-     1278.53
-    ],
-    [
-     -1798.1,
-     54.93,
-     1271.89
-    ]
-   ],
+   "entrances": [],
    "fee": null,
-   "ground_y": 55.31,
+   "ground_y": 55.38,
    "id": "w236995344.0",
    "kind": "surface",
    "name": "City Centre Parking",
@@ -17653,8 +17589,8 @@
     ]
    ],
    "stall_dir": [
-    0.3791,
-    0.9254
+    -0.0,
+    1.0
    ]
   },
   {
@@ -17663,7 +17599,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 55.66,
+   "ground_y": 55.73,
    "id": "w236995344.1",
    "kind": "surface",
    "name": "City Centre Parking",
@@ -20867,7 +20803,7 @@
    "capacity": null,
    "entrances": [],
    "fee": "yes",
-   "ground_y": 58.59,
+   "ground_y": 58.67,
    "id": "w262861358.0",
    "kind": "surface",
    "name": null,
@@ -20895,8 +20831,8 @@
     ]
    ],
    "stall_dir": [
-    0.9306,
-    -0.366
+    0.9307,
+    -0.3657
    ]
   },
   {
@@ -23586,11 +23522,6 @@
      -638.25,
      72.26,
      1769.94
-    ],
-    [
-     -629.23,
-     72.55,
-     1792.69
     ]
    ],
    "fee": null,
@@ -23684,7 +23615,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 72.73,
+   "ground_y": 72.7,
    "id": "w300576544.0",
    "kind": "surface",
    "name": null,
@@ -23722,7 +23653,7 @@
    "capacity": 8,
    "entrances": [],
    "fee": null,
-   "ground_y": 71.72,
+   "ground_y": 71.76,
    "id": "w300577554.0",
    "kind": "surface",
    "name": null,
@@ -26525,7 +26456,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 63.55,
+   "ground_y": 63.56,
    "id": "w307099709.0",
    "kind": "surface",
    "name": null,
@@ -26561,8 +26492,8 @@
     ]
    ],
    "stall_dir": [
-    0.7859,
-    0.6183
+    0.4071,
+    0.9134
    ]
   },
   {
@@ -27642,9 +27573,6 @@
    "access": "yes",
    "aisles": [
     "w1240361012.0",
-    "w1240361013.0",
-    "w484816100.3",
-    "w484816103.0",
     "w484816105.0"
    ],
    "capacity": null,
@@ -27653,30 +27581,10 @@
      -1774.45,
      57.18,
      1363.26
-    ],
-    [
-     -1806.88,
-     56.35,
-     1365.13
-    ],
-    [
-     -1792.11,
-     56.66,
-     1368.64
-    ],
-    [
-     -1814.82,
-     55.18,
-     1278.53
-    ],
-    [
-     -1798.1,
-     54.93,
-     1271.89
     ]
    ],
    "fee": "no",
-   "ground_y": 56.09,
+   "ground_y": 56.1,
    "id": "w307625924.0",
    "kind": "surface",
    "name": null,
@@ -27756,8 +27664,8 @@
     ]
    ],
    "stall_dir": [
-    0.3847,
-    0.923
+    0.369,
+    0.9294
    ]
   },
   {
@@ -27797,18 +27705,16 @@
    ],
    "stall_dir": [
     0.9995,
-    -0.0315
+    -0.0316
    ]
   },
   {
    "access": "private",
-   "aisles": [
-    "w681423187.0"
-   ],
+   "aisles": [],
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 51.61,
+   "ground_y": 51.63,
    "id": "w308156658.0",
    "kind": "surface",
    "name": null,
@@ -27836,8 +27742,8 @@
     ]
    ],
    "stall_dir": [
-    0.9994,
-    -0.0345
+    0.9995,
+    -0.0315
    ]
   },
   {
@@ -29054,20 +28960,9 @@
     "w681869340.0"
    ],
    "capacity": null,
-   "entrances": [
-    [
-     -1572.17,
-     60.82,
-     1807.95
-    ],
-    [
-     -1645.73,
-     66.99,
-     1817.64
-    ]
-   ],
+   "entrances": [],
    "fee": null,
-   "ground_y": 65.27,
+   "ground_y": 66.72,
    "id": "w310836059.0",
    "kind": "surface",
    "name": null,
@@ -29099,8 +28994,8 @@
     ]
    ],
    "stall_dir": [
-    0.9914,
-    -0.1306
+    1.0,
+    0.0
    ]
   },
   {
@@ -35292,7 +35187,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 69.13,
+   "ground_y": 69.26,
    "id": "w583839796.0",
    "kind": "surface",
    "name": null,
@@ -36779,7 +36674,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 53.22,
+   "ground_y": 53.12,
    "id": "w670737048.0",
    "kind": "surface",
    "name": null,
@@ -36945,7 +36840,7 @@
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 62.28,
+   "ground_y": 62.36,
    "id": "w681288913.0",
    "kind": "multi-storey",
    "name": null,
@@ -37207,7 +37102,7 @@
     ]
    ],
    "fee": null,
-   "ground_y": 47.1,
+   "ground_y": 47.07,
    "id": "w681914197.0",
    "kind": "surface",
    "name": null,
@@ -37235,7 +37130,7 @@
     ]
    ],
    "stall_dir": [
-    0.0634,
+    0.0638,
     0.998
    ]
   },
@@ -38022,13 +37917,13 @@
    "access": "private",
    "aisles": [
     "w690496637.0",
-    "w690496642.1",
+    "w690496642.1b2",
     "w690496642.2"
    ],
    "capacity": null,
    "entrances": [],
    "fee": null,
-   "ground_y": 58.76,
+   "ground_y": 58.8,
    "id": "w690496638.0",
    "kind": "surface",
    "name": null,
@@ -38092,8 +37987,8 @@
     ]
    ],
    "stall_dir": [
-    0.0967,
-    0.9953
+    0.876,
+    -0.4823
    ]
   },
   {
@@ -44221,13 +44116,7 @@
     "w743693736.0"
    ],
    "capacity": null,
-   "entrances": [
-    [
-     514.14,
-     68.15,
-     1792.17
-    ]
-   ],
+   "entrances": [],
    "fee": null,
    "ground_y": 68.53,
    "id": "w810027826.0",
@@ -49393,7 +49282,7 @@
    "capacity": null,
    "entrances": [],
    "fee": "no",
-   "ground_y": 68.54,
+   "ground_y": 68.82,
    "id": "w887677039.0",
    "kind": "surface",
    "name": null,
