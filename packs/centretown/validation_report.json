@@ -15473,19 +15473,19 @@
    "soundwall": 25
   },
   "bridges": {
-   "abutments": 129,
-   "bridges": 37,
+   "abutments": 127,
+   "bridges": 36,
    "infill_strips": 35,
    "kinds": {
-    "footbridge": 3,
+    "footbridge": 2,
     "over_ground": 8,
     "over_road": 13,
     "over_water": 13
    },
-   "piers": 114,
-   "piers_skipped": 11,
-   "walkways_lifted": 16,
-   "walkways_on_decks": 75
+   "piers": 101,
+   "piers_skipped": 9,
+   "walkways_lifted": 17,
+   "walkways_on_decks": 74
   },
   "buildings": {
    "footprints": 13322,
@@ -15571,11 +15571,13 @@
   },
   "terrain": {
    "cells_carved": 8656,
-   "cells_flattened": 435237,
+   "cells_flattened": 435276,
    "cells_lowered_for_water": 76107,
-   "cells_lowered_under_decks": 28451,
+   "cells_lowered_under_decks": 21493,
+   "cells_restored_under_roads": 4214,
    "cells_under_buildings": 187827,
    "chunks": 256,
+   "path_points_lifted": 1697,
    "underpasses": {
     "tunnels": 22,
     "uncovered": 16
