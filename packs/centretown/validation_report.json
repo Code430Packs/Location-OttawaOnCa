@@ -15482,9 +15482,9 @@
     "over_road": 13,
     "over_water": 13
    },
-   "piers": 101,
+   "piers": 105,
    "piers_skipped": 9,
-   "walkways_lifted": 17,
+   "walkways_lifted": 16,
    "walkways_on_decks": 74
   },
   "buildings": {
@@ -15571,13 +15571,15 @@
   },
   "terrain": {
    "cells_carved": 8656,
-   "cells_flattened": 435276,
+   "cells_cut_under_paths": 362,
+   "cells_flattened": 435935,
    "cells_lowered_for_water": 76107,
-   "cells_lowered_under_decks": 21493,
-   "cells_restored_under_roads": 4214,
+   "cells_lowered_under_decks": 24009,
+   "cells_restored_under_roads": 4478,
    "cells_under_buildings": 187827,
    "chunks": 256,
-   "path_points_lifted": 1697,
+   "junctions_flattened": 2190,
+   "path_points_lifted": 1345,
    "underpasses": {
     "tunnels": 22,
     "uncovered": 16

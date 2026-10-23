@@ -8325,13 +8325,15 @@
   },
   "terrain": {
    "cells_carved": 2642,
-   "cells_flattened": 190381,
+   "cells_cut_under_paths": 49,
+   "cells_flattened": 190768,
    "cells_lowered_for_water": 35559,
-   "cells_lowered_under_decks": 5953,
-   "cells_restored_under_roads": 1538,
+   "cells_lowered_under_decks": 6391,
+   "cells_restored_under_roads": 1556,
    "cells_under_buildings": 65170,
    "chunks": 144,
-   "path_points_lifted": 606,
+   "junctions_flattened": 1020,
+   "path_points_lifted": 410,
    "underpasses": {
     "tunnels": 3,
     "uncovered": 1

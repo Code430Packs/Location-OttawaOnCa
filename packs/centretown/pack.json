@@ -7,7 +7,7 @@
   "Code 430 contributors"
  ],
  "build": {
-  "importer": "7af63cba29d2",
+  "importer": "0b140acd5132",
   "inputs": {
    "bridges": "2026-10-22T19:43:55Z",
    "buildings": "2026-10-22T19:42:51Z",
@@ -49,5 +49,5 @@
  "name": "Ottawa Centretown",
  "schema_version": 0,
  "type": "map",
- "version": "0.5.0"
+ "version": "0.5.1"
 }
