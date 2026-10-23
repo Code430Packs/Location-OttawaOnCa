@@ -7,7 +7,7 @@
   "Code 430 contributors"
  ],
  "build": {
-  "importer": "7af63cba29d2",
+  "importer": "0b140acd5132",
   "inputs": {
    "bridges": "2026-10-22T23:41:57Z",
    "buildings": "2026-10-22T23:40:49Z",
@@ -49,5 +49,5 @@
  "name": "Ottawa Glebe",
  "schema_version": 0,
  "type": "map",
- "version": "0.2.0"
+ "version": "0.2.1"
 }
