@@ -1,0 +1,18 @@
+{
+ "places": [
+  {
+   "address": "635 O'Connor Street",
+   "at": [
+    925.06,
+    66.6,
+    1892.26
+   ],
+   "id": "w68586664",
+   "kind": "fire_station",
+   "name": "Ottawa Fire Station 12",
+   "road_node": "n6960505722"
+  }
+ ],
+ "schema_version": 0,
+ "units": "metres, x east, z south; y the ground"
+}

@@ -5,9 +5,12 @@ district, built from OpenStreetMap.
 
 | District | Pack | Area | Version |
 |---|---|---|---|
-| Centretown | `packs/centretown` (`code430.ottawa-centretown`) | chunks -7..6 on Ottawa's grid (about 3.6 × 3.6 km), around Parliament Hill, the Rideau Canal and the 417 | 0.3.0 |
+| Centretown | `packs/centretown` (`code430.ottawa-centretown`) | chunks x -7..6, z -7..6 on Ottawa's grid (about 3.6 × 3.6 km), around Parliament Hill, the Rideau Canal and the 417 | 0.4.0 |
+| Glebe | `packs/glebe` (`code430.ottawa-glebe`) | chunks x -7..6, z 7..13 (south of Centretown): the Glebe, Lansdowne, Dow's Lake | 0.1.0 |
+| Hintonburg | `packs/hintonburg` (`code430.ottawa-hintonburg`) | chunks x -14..-8, z -7..6 (west of Centretown): Hintonburg, Mechanicsville | 0.1.0 |
 
-More districts (the Glebe, the ByWard Market, ...) join as their own packs beside Centretown,
+Districts join each other in the game where their borders meet (add-district-stitching): roads cut at a border are
+listed in `border.v0.json` and joined to the neighbour's. More districts join as their own packs,
 using Ottawa's pinned origin (lat 45.4200027, lon -75.6950007) and a border on its 256 m chunk
 grid; see `regions/README.md`. Centretown moved onto the grid in 0.3.0 (border chunks
 [-7, -7, 7, 7]).

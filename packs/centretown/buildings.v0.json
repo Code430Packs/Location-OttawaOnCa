@@ -72784,7 +72784,7 @@
      0,
      4
     ],
-    "setback_m": 1.45,
+    "setback_m": 2.91,
     "storeys": 2.0,
     "street": "w305081739.0",
     "type": "terrace"
@@ -92400,14 +92400,14 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     1788.47,
-     71.99
+     1773.46,
+     61.65
     ],
-    "front_edge": 8,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 6.68,
+    "setback_m": 33.15,
     "storeys": 1.0,
-    "street": "w76445970.0",
+    "street": "w76444822.0",
     "type": "bungalow"
    },
    "id": "w255270023.0",
@@ -136915,9 +136915,9 @@
      0,
      2
     ],
-    "setback_m": 6.28,
+    "setback_m": 9.34,
     "storeys": 2.0,
-    "street": "w804749903.0",
+    "street": "w804749903.1",
     "type": "terrace"
    },
    "id": "w292444893.0",
@@ -167420,7 +167420,7 @@
     ],
     "front_edge": 0,
     "party_walls": [],
-    "setback_m": 37.32,
+    "setback_m": 37.34,
     "storeys": 2.0,
     "street": "w993686598.0",
     "type": "detached"
@@ -167739,7 +167739,7 @@
     ],
     "front_edge": 3,
     "party_walls": [],
-    "setback_m": 5.61,
+    "setback_m": 6.61,
     "storeys": 1.0,
     "street": "w993686598.0",
     "type": "bungalow"
@@ -167851,7 +167851,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 5.92,
+    "setback_m": 6.18,
     "storeys": 2.0,
     "street": "w993686598.0",
     "type": "detached"
@@ -167920,7 +167920,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 16.66,
+    "setback_m": 16.97,
     "storeys": 1.5,
     "street": "w993686598.0",
     "type": "cottage"
@@ -168003,7 +168003,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 26.86,
+    "setback_m": 26.98,
     "storeys": 2.0,
     "street": "w993686598.0",
     "type": "detached"
@@ -199340,9 +199340,9 @@
     "party_walls": [
      0
     ],
-    "setback_m": 8.61,
+    "setback_m": 53.76,
     "storeys": 2.0,
-    "street": "w76422397.1",
+    "street": "w532069196.0",
     "type": "semi"
    },
    "id": "w441865418.0",
@@ -199390,14 +199390,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -1812.05,
-     1723.39
+     -1815.46,
+     1726.77
     ],
-    "front_edge": 7,
+    "front_edge": 8,
     "party_walls": [],
-    "setback_m": 8.24,
+    "setback_m": 24.01,
     "storeys": 2.0,
-    "street": "w76422397.1",
+    "street": "w76422397.0",
     "type": "detached"
    },
    "id": "w441865419.0",
@@ -199494,9 +199494,9 @@
     "party_walls": [
      12
     ],
-    "setback_m": 7.11,
+    "setback_m": 16.53,
     "storeys": 2.0,
-    "street": "w76422397.1",
+    "street": "w76422397.0",
     "type": "terrace"
    },
    "id": "w441865430.0",
@@ -199621,7 +199621,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 8.58,
+    "setback_m": 8.79,
     "storeys": 2.0,
     "street": "w76422397.0",
     "type": "semi"
@@ -199714,14 +199714,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -1815.39,
-     1715.65
+     -1819.08,
+     1720.57
     ],
-    "front_edge": 3,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 8.38,
+    "setback_m": 30.51,
     "storeys": 2.0,
-    "street": "w76422397.1",
+    "street": "w76422397.0",
     "type": "detached"
    },
    "id": "w441865441.0",
@@ -199817,7 +199817,7 @@
     ],
     "front_edge": 3,
     "party_walls": [],
-    "setback_m": 9.65,
+    "setback_m": 16.37,
     "storeys": 1.0,
     "street": "w532069196.0",
     "type": "bungalow"
@@ -199961,9 +199961,9 @@
      2,
      4
     ],
-    "setback_m": 8.46,
+    "setback_m": 12.41,
     "storeys": 2.0,
-    "street": "w76422397.1",
+    "street": "w76422397.0",
     "type": "terrace"
    },
    "id": "w441865484.0",
@@ -200205,16 +200205,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -1817.97,
-     1709.67
+     -1821.96,
+     1713.44
     ],
-    "front_edge": 3,
+    "front_edge": 0,
     "party_walls": [
      2
     ],
-    "setback_m": 8.45,
+    "setback_m": 36.69,
     "storeys": 2.0,
-    "street": "w76422397.1",
+    "street": "w76422397.0",
     "type": "semi"
    },
    "id": "w441865502.0",
@@ -246471,7 +246471,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 9.82,
+    "setback_m": 10.64,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "semi"
@@ -246543,7 +246543,7 @@
      0,
      7
     ],
-    "setback_m": 7.39,
+    "setback_m": 16.1,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "terrace"
@@ -246621,14 +246621,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1796.33,
-     -467.89
+     1787.97,
+     -464.45
     ],
-    "front_edge": 5,
+    "front_edge": 4,
     "party_walls": [
      0
     ],
-    "setback_m": 7.32,
+    "setback_m": 28.02,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "semi"
@@ -246706,14 +246706,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1801.75,
-     -454.05
+     1797.13,
+     -455.64
     ],
-    "front_edge": 5,
+    "front_edge": 4,
     "party_walls": [
      0
     ],
-    "setback_m": 9.52,
+    "setback_m": 39.28,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "semi"
@@ -246777,16 +246777,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1811.03,
-     -438.76
+     1803.81,
+     -433.24
     ],
-    "front_edge": 2,
+    "front_edge": 5,
     "party_walls": [
      1
     ],
-    "setback_m": 9.08,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w76441067.1",
+    "street": null,
     "type": "semi"
    },
    "id": "w459251811.0",
@@ -246912,16 +246912,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1816.88,
-     -432.44
+     1804.27,
+     -428.47
     ],
-    "front_edge": 3,
+    "front_edge": 7,
     "party_walls": [
      6
     ],
-    "setback_m": 7.16,
+    "setback_m": 52.66,
     "storeys": 2.0,
-    "street": "w76441067.1",
+    "street": "w76442090.1",
     "type": "semi"
    },
    "id": "w459251814.0",
@@ -246997,16 +246997,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1821.16,
-     -425.98
+     1803.18,
+     -416.99
     ],
-    "front_edge": 0,
+    "front_edge": 7,
     "party_walls": [
      8
     ],
-    "setback_m": 6.65,
+    "setback_m": 45.97,
     "storeys": 2.0,
-    "street": "w76441067.1",
+    "street": "w76442090.1",
     "type": "semi"
    },
    "id": "w459251815.0",
@@ -247103,12 +247103,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1812.75,
-     -383.58
+     1806.57,
+     -385.5
     ],
-    "front_edge": 3,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 9.25,
+    "setback_m": 28.55,
     "storeys": 2.0,
     "street": "w76445041.9",
     "type": "detached"
@@ -247158,12 +247158,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1804.68,
-     -376.59
+     1799.98,
+     -380.17
     ],
-    "front_edge": 4,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 7.21,
+    "setback_m": 21.06,
     "storeys": 2.0,
     "street": "w76445041.9",
     "type": "detached"
@@ -247232,7 +247232,7 @@
     ],
     "front_edge": 4,
     "party_walls": [],
-    "setback_m": 6.88,
+    "setback_m": 11.93,
     "storeys": 2.0,
     "street": "w76445041.9",
     "type": "detached"
@@ -272404,7 +272404,7 @@
      4,
      10
     ],
-    "setback_m": 8.45,
+    "setback_m": 9.56,
     "storeys": 2.0,
     "street": "w278141962.0",
     "type": "terrace"
@@ -272511,7 +272511,7 @@
      1,
      5
     ],
-    "setback_m": 8.24,
+    "setback_m": 11.84,
     "storeys": 2.0,
     "street": "w278141962.0",
     "type": "terrace"
@@ -272583,7 +272583,7 @@
      1,
      5
     ],
-    "setback_m": 8.15,
+    "setback_m": 15.91,
     "storeys": 2.0,
     "street": "w278141962.0",
     "type": "terrace"
@@ -272647,16 +272647,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -716.9,
-     1807.91
+     -705.37,
+     1801.01
     ],
-    "front_edge": 0,
+    "front_edge": 2,
     "party_walls": [
      1
     ],
-    "setback_m": 7.9,
+    "setback_m": 20.15,
     "storeys": 2.0,
-    "street": "w278141962.0",
+    "street": "w76419688.0",
     "type": "terrace"
    },
    "id": "w460240759.0",
@@ -272718,16 +272718,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -671.44,
-     1809.25
+     -661.2,
+     1802.36
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [
      2
     ],
-    "setback_m": 1.78,
+    "setback_m": 29.74,
     "storeys": 2.0,
-    "street": "w76419688.0",
+    "street": "w76422617.2",
     "type": "terrace"
    },
    "id": "w460240761.0",
@@ -301020,14 +301020,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     201.58,
-     1807.75
+     203.91,
+     1787.82
     ],
-    "front_edge": 13,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 5.98,
+    "setback_m": 11.5,
     "storeys": 2.0,
-    "street": "w76421646.0",
+    "street": "w76419162.1",
     "type": "detached"
    },
    "id": "w474458004.0",
@@ -302325,12 +302325,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     140.66,
-     1792.78
+     143.78,
+     1790.31
     ],
-    "front_edge": 4,
+    "front_edge": 2,
     "party_walls": [],
-    "setback_m": 12.21,
+    "setback_m": 24.61,
     "storeys": 1.5,
     "street": "w76419162.0",
     "type": "cottage"
@@ -302742,12 +302742,12 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     129.16,
-     1801.35
+     129.95,
+     1792.41
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 10.51,
+    "setback_m": 38.39,
     "storeys": 1.0,
     "street": "w76419162.0",
     "type": "bungalow"
@@ -302993,12 +302993,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     113.41,
-     1808.38
+     117.23,
+     1800.8
     ],
-    "front_edge": 8,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 12.25,
+    "setback_m": 51.83,
     "storeys": 2.0,
     "street": "w76419162.0",
     "type": "detached"
@@ -303118,14 +303118,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     100.53,
-     1818.37
+     93.52,
+     1801.04
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 9.99,
+    "setback_m": 52.69,
     "storeys": 2.0,
-    "street": "w76419162.0",
+    "street": "w76418949.2",
     "type": "detached"
    },
    "id": "w474458051.0",
@@ -303229,14 +303229,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     90.49,
-     1822.95
+     78.25,
+     1810.24
     ],
-    "front_edge": 1,
+    "front_edge": 8,
     "party_walls": [],
-    "setback_m": 11.01,
+    "setback_m": 53.13,
     "storeys": 2.0,
-    "street": "w76419162.0",
+    "street": "w76418949.2",
     "type": "detached"
    },
    "id": "w474458059.0",
@@ -306559,7 +306559,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 10.25,
+    "setback_m": 10.83,
     "storeys": 2.0,
     "street": "w76420785.2",
     "type": "detached"
@@ -306975,7 +306975,7 @@
     ],
     "front_edge": 2,
     "party_walls": [],
-    "setback_m": 8.41,
+    "setback_m": 14.02,
     "storeys": 2.0,
     "street": "w76420785.2",
     "type": "detached"
@@ -307072,7 +307072,7 @@
     ],
     "front_edge": 13,
     "party_walls": [],
-    "setback_m": 10.7,
+    "setback_m": 12.07,
     "storeys": 1.0,
     "street": "w76420785.2",
     "type": "bungalow"
@@ -307352,12 +307352,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     317.7,
-     1796.97
+     319.55,
+     1786.48
     ],
-    "front_edge": 6,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 8.91,
+    "setback_m": 26.96,
     "storeys": 2.0,
     "street": "w76420785.2",
     "type": "detached"
@@ -307789,12 +307789,12 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     310.59,
-     1800.85
+     308.98,
+     1792.39
     ],
-    "front_edge": 6,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 9.09,
+    "setback_m": 37.01,
     "storeys": 1.0,
     "street": "w76420785.2",
     "type": "bungalow"
@@ -309448,7 +309448,7 @@
     ],
     "front_edge": 7,
     "party_walls": [],
-    "setback_m": 16.67,
+    "setback_m": 27.22,
     "storeys": 1.0,
     "street": "w76418949.1",
     "type": "bungalow"
@@ -309714,14 +309714,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -46.41,
-     1795.05
+     -47.67,
+     1787.15
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 14.75,
+    "setback_m": 40.28,
     "storeys": 2.0,
-    "street": "w76418949.0",
+    "street": "w76418949.1",
     "type": "detached"
    },
    "id": "w474458353.0",
@@ -309832,14 +309832,14 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     -62.42,
-     1804.52
+     -68.73,
+     1787.19
     ],
-    "front_edge": 8,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 14.45,
+    "setback_m": 44.65,
     "storeys": 1.0,
-    "street": "w76418949.0",
+    "street": "w76420400.1",
     "type": "bungalow"
    },
    "id": "w474458354.0",
@@ -309971,14 +309971,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     272.28,
-     1820.53
+     264.05,
+     1806.73
     ],
-    "front_edge": 0,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 11.12,
+    "setback_m": 57.65,
     "storeys": 2.0,
-    "street": "w76420785.2",
+    "street": "w76419162.1",
     "type": "detached"
    },
    "id": "w474458355.0",
@@ -313864,14 +313864,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     758.94,
-     1817.68
+     751.62,
+     1804.07
     ],
-    "front_edge": 2,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 13.3,
+    "setback_m": 44.48,
     "storeys": 2.0,
-    "street": "w76422404.0",
+    "street": "w804749902.0",
     "type": "detached"
    },
    "id": "w474458640.0",
@@ -314183,14 +314183,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     753.22,
-     1822.95
+     744.77,
+     1809.01
     ],
-    "front_edge": 1,
+    "front_edge": 4,
     "party_walls": [],
-    "setback_m": 11.56,
+    "setback_m": 45.39,
     "storeys": 2.0,
-    "street": "w76422404.0",
+    "street": "w804749902.0",
     "type": "detached"
    },
    "id": "w474458646.0",
@@ -314462,14 +314462,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     743.59,
-     1822.95
+     738.32,
+     1813.56
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 16.33,
+    "setback_m": 46.15,
     "storeys": 1.5,
-    "street": "w76422404.0",
+    "street": "w804749902.0",
     "type": "cottage"
    },
    "id": "w474458660.0",
@@ -318328,7 +318328,7 @@
      2,
      3
     ],
-    "setback_m": 6.53,
+    "setback_m": 10.05,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "terrace"
@@ -318785,14 +318785,14 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     663.3,
-     1810.55
+     668.03,
+     1809.39
     ],
-    "front_edge": 7,
+    "front_edge": 9,
     "party_walls": [
      10
     ],
-    "setback_m": 6.37,
+    "setback_m": 14.91,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "terrace"
@@ -319153,7 +319153,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 9.0,
+    "setback_m": 9.04,
     "storeys": 1.5,
     "street": "w804749902.0",
     "type": "cottage"
@@ -320118,12 +320118,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     639.27,
-     1799.72
+     639.26,
+     1792.44
     ],
-    "front_edge": 6,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 7.91,
+    "setback_m": 33.12,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "detached"
@@ -320243,12 +320243,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     630.07,
-     1805.03
+     629.97,
+     1798.31
     ],
-    "front_edge": 6,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 7.85,
+    "setback_m": 42.83,
     "storeys": 1.5,
     "street": "w804749902.0",
     "type": "cottage"
@@ -320451,12 +320451,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     623.14,
-     1809.47
+     622.75,
+     1801.24
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 7.42,
+    "setback_m": 50.42,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "detached"
@@ -320969,14 +320969,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     614.97,
-     1808.51
+     602.45,
+     1795.46
     ],
-    "front_edge": 4,
+    "front_edge": 12,
     "party_walls": [],
-    "setback_m": 12.3,
+    "setback_m": 43.43,
     "storeys": 2.0,
-    "street": "w804749902.0",
+    "street": "w804749903.1",
     "type": "detached"
    },
    "id": "w474458798.0",
@@ -321640,14 +321640,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     606.62,
-     1819.99
+     599.51,
+     1805.1
     ],
-    "front_edge": 4,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 6.46,
+    "setback_m": 50.32,
     "storeys": 1.5,
-    "street": "w804749902.0",
+    "street": "w804749903.1",
     "type": "cottage"
    },
    "id": "w474458815.0",
@@ -322834,14 +322834,14 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     587.57,
-     1822.95
+     582.18,
+     1813.68
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 13.32,
+    "setback_m": 49.1,
     "storeys": 1.0,
-    "street": "w804749902.0",
+    "street": "w804749903.1",
     "type": "bungalow"
    },
    "id": "w474458829.0",
@@ -325116,16 +325116,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     287.24,
-     1811.52
+     275.92,
+     1797.65
     ],
-    "front_edge": 10,
+    "front_edge": 2,
     "party_walls": [
      0
     ],
-    "setback_m": 11.47,
+    "setback_m": 55.61,
     "storeys": 2.0,
-    "street": "w76420785.2",
+    "street": "w76419162.1",
     "type": "semi"
    },
    "id": "w474458904.0",
@@ -325677,7 +325677,7 @@
      0,
      4
     ],
-    "setback_m": 8.41,
+    "setback_m": 20.07,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "terrace"
@@ -327163,17 +327163,17 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     773.33,
-     1817.75
+     761.92,
+     1802.09
     ],
-    "front_edge": 1,
+    "front_edge": 13,
     "party_walls": [
      0,
      14
     ],
-    "setback_m": 6.12,
+    "setback_m": 47.84,
     "storeys": 2.0,
-    "street": "w76422404.0",
+    "street": "w804749902.0",
     "type": "terrace"
    },
    "id": "w474459039.0",
@@ -329480,14 +329480,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     298.89,
-     1805.35
+     294.97,
+     1791.63
     ],
-    "front_edge": 5,
+    "front_edge": 2,
     "party_walls": [
      0
     ],
-    "setback_m": 11.01,
+    "setback_m": 49.24,
     "storeys": 2.0,
     "street": "w76420785.2",
     "type": "semi"
@@ -331210,12 +331210,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1808.76,
-     -492.24
+     1807.38,
+     -496.2
     ],
-    "front_edge": 5,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 8.56,
+    "setback_m": 11.92,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "detached"
@@ -332943,7 +332943,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 8.55,
+    "setback_m": 11.94,
     "storeys": 2.0,
     "street": "w76442090.0",
     "type": "detached"
@@ -333012,7 +333012,7 @@
     ],
     "front_edge": 5,
     "party_walls": [],
-    "setback_m": 10.06,
+    "setback_m": 14.05,
     "storeys": 2.0,
     "street": "w76442090.0",
     "type": "detached"
@@ -333224,12 +333224,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1792.36,
-     -313.23
+     1786.12,
+     -315.72
     ],
-    "front_edge": 5,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 9.18,
+    "setback_m": 20.48,
     "storeys": 2.0,
     "street": "w76442090.0",
     "type": "detached"
@@ -333448,12 +333448,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1797.87,
-     -303.57
+     1791.6,
+     -306.29
     ],
-    "front_edge": 3,
+    "front_edge": 6,
     "party_walls": [],
-    "setback_m": 9.3,
+    "setback_m": 29.18,
     "storeys": 1.5,
     "street": "w76442090.0",
     "type": "cottage"
@@ -333637,14 +333637,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1805.57,
-     -290.75
+     1801.47,
+     -294.47
     ],
-    "front_edge": 3,
+    "front_edge": 0,
     "party_walls": [
      8
     ],
-    "setback_m": 9.15,
+    "setback_m": 42.23,
     "storeys": 2.0,
     "street": "w76442090.0",
     "type": "semi"
@@ -333806,14 +333806,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1812.93,
-     -279.94
+     1799.8,
+     -272.5
     ],
-    "front_edge": 3,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 8.22,
+    "setback_m": 46.69,
     "storeys": 2.0,
-    "street": "w76442090.0",
+    "street": "w76441385.1",
     "type": "detached"
    },
    "id": "w474612287.0",
@@ -334149,7 +334149,7 @@
     ],
     "front_edge": 5,
     "party_walls": [],
-    "setback_m": 12.37,
+    "setback_m": 12.9,
     "storeys": 1.5,
     "street": "w76441385.1",
     "type": "cottage"
@@ -334428,7 +334428,7 @@
     ],
     "front_edge": 7,
     "party_walls": [],
-    "setback_m": 9.0,
+    "setback_m": 9.04,
     "storeys": 1.5,
     "street": "w76441385.1",
     "type": "cottage"
@@ -335191,14 +335191,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1811.82,
-     -352.56
+     1804.86,
+     -343.84
     ],
-    "front_edge": 0,
+    "front_edge": 11,
     "party_walls": [],
-    "setback_m": 10.18,
+    "setback_m": 10.25,
     "storeys": 1.5,
-    "street": "w76445041.9",
+    "street": "w76442090.0",
     "type": "cottage"
    },
    "id": "w474612331.0",
@@ -336492,7 +336492,7 @@
     ],
     "front_edge": 0,
     "party_walls": [],
-    "setback_m": 22.52,
+    "setback_m": 24.6,
     "storeys": 2.0,
     "street": "w520170916.4",
     "type": "detached"
@@ -338167,7 +338167,7 @@
      0,
      15
     ],
-    "setback_m": 7.62,
+    "setback_m": 9.06,
     "storeys": 2.0,
     "street": "w76441385.1",
     "type": "terrace"
@@ -340946,7 +340946,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 11.88,
+    "setback_m": 13.56,
     "storeys": 1.0,
     "street": "w504508658.0",
     "type": "bungalow"
@@ -372371,14 +372371,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -1669.38,
-     -1818.52
+     -1663.57,
+     -1816.63
     ],
-    "front_edge": 12,
+    "front_edge": 9,
     "party_walls": [],
-    "setback_m": 6.38,
+    "setback_m": 24.35,
     "storeys": 2.0,
-    "street": "w10278500.1",
+    "street": "w10278500.0",
     "type": "detached"
    },
    "id": "w477886695.0",
@@ -373069,7 +373069,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 8.39,
+    "setback_m": 9.53,
     "storeys": 2.0,
     "street": "w10278500.0",
     "type": "detached"
@@ -415365,17 +415365,17 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -380.38,
-     1803.95
+     -387.58,
+     1793.48
     ],
-    "front_edge": 3,
+    "front_edge": 11,
     "party_walls": [
      0,
      1
     ],
-    "setback_m": 9.13,
+    "setback_m": 32.87,
     "storeys": 2.0,
-    "street": "w76422005.0",
+    "street": "w76419103.6",
     "type": "terrace"
    },
    "id": "w479506821.0",
@@ -417163,14 +417163,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -145.01,
-     1798.14
+     -143.25,
+     1789.44
     ],
-    "front_edge": 5,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 8.42,
+    "setback_m": 9.32,
     "storeys": 2.0,
-    "street": "w76422688.0",
+    "street": "w76420400.1",
     "type": "detached"
    },
    "id": "w479506857.0",
@@ -417601,7 +417601,7 @@
     ],
     "front_edge": 0,
     "party_walls": [],
-    "setback_m": 8.64,
+    "setback_m": 11.4,
     "storeys": 1.5,
     "street": "w76420400.0",
     "type": "cottage"
@@ -417735,16 +417735,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -196.96,
-     1786.48
+     -196.32,
+     1777.42
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [
      7
     ],
-    "setback_m": 12.86,
+    "setback_m": 19.15,
     "storeys": 2.0,
-    "street": "w76420400.0",
+    "street": "w76418913.0",
     "type": "semi"
    },
    "id": "w479506863.0",
@@ -417905,14 +417905,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -204.67,
-     1792.57
+     -203.04,
+     1788.99
     ],
-    "front_edge": 6,
+    "front_edge": 4,
     "party_walls": [
      3
     ],
-    "setback_m": 11.4,
+    "setback_m": 25.65,
     "storeys": 2.0,
     "street": "w76420400.0",
     "type": "semi"
@@ -418122,7 +418122,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 11.3,
+    "setback_m": 33.86,
     "storeys": 1.5,
     "street": "w76420400.0",
     "type": "cottage"
@@ -418228,16 +418228,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -220.68,
-     1802.33
+     -224.74,
+     1789.69
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [
      6,
      7,
      8
     ],
-    "setback_m": 10.85,
+    "setback_m": 46.16,
     "storeys": 2.0,
     "street": "w76420400.0",
     "type": "terrace"
@@ -418329,16 +418329,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -230.77,
-     1808.19
+     -235.13,
+     1792.39
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [
      3
     ],
-    "setback_m": 10.78,
+    "setback_m": 49.12,
     "storeys": 2.0,
-    "street": "w76420400.0",
+    "street": "w76422823.3",
     "type": "terrace"
    },
    "id": "w479506874.0",
@@ -418499,16 +418499,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -236.56,
-     1811.14
+     -248.48,
+     1799.69
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [
      11
     ],
-    "setback_m": 11.06,
+    "setback_m": 48.73,
     "storeys": 2.0,
-    "street": "w76420400.0",
+    "street": "w76422823.3",
     "type": "semi"
    },
    "id": "w479506877.0",
@@ -418737,16 +418737,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -248.25,
-     1818.16
+     -255.61,
+     1804.3
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [
      3
     ],
-    "setback_m": 10.77,
+    "setback_m": 49.06,
     "storeys": 2.0,
-    "street": "w76420400.0",
+    "street": "w76422823.0",
     "type": "semi"
    },
    "id": "w479506883.0",
@@ -419868,14 +419868,14 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     -74.26,
-     1811.92
+     -86.43,
+     1798.48
     ],
-    "front_edge": 9,
+    "front_edge": 17,
     "party_walls": [],
-    "setback_m": 13.88,
+    "setback_m": 45.57,
     "storeys": 1.0,
-    "street": "w76418949.0",
+    "street": "w76420400.1",
     "type": "bungalow"
    },
    "id": "w479506965.0",
@@ -420035,14 +420035,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -89.98,
-     1820.01
+     -98.27,
+     1805.38
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 14.63,
+    "setback_m": 45.62,
     "storeys": 2.0,
-    "street": "w76418949.0",
+    "street": "w76420400.1",
     "type": "detached"
    },
    "id": "w479506969.0",
@@ -431958,16 +431958,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -391.36,
-     1812.85
+     -389.21,
+     1805.41
     ],
-    "front_edge": 7,
+    "front_edge": 4,
     "party_walls": [
      0
     ],
-    "setback_m": 6.83,
+    "setback_m": 41.7,
     "storeys": 2.0,
-    "street": "w76422005.0",
+    "street": "w76419103.6",
     "type": "semi"
    },
    "id": "w479507339.0",
@@ -480686,7 +480686,7 @@
     ],
     "front_edge": 4,
     "party_walls": [],
-    "setback_m": 4.06,
+    "setback_m": 4.51,
     "storeys": 2.0,
     "street": "w76418849.0",
     "type": "detached"
@@ -480797,7 +480797,7 @@
     ],
     "front_edge": 8,
     "party_walls": [],
-    "setback_m": 2.33,
+    "setback_m": 9.32,
     "storeys": 1.5,
     "street": "w76418849.0",
     "type": "cottage"
@@ -480910,12 +480910,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -1380.89,
-     1791.82
+     -1380.55,
+     1784.94
     ],
-    "front_edge": 4,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 3.83,
+    "setback_m": 16.93,
     "storeys": 2.0,
     "street": "w76418849.0",
     "type": "detached"
@@ -481007,12 +481007,12 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     -1388.67,
-     1795.47
+     -1387.18,
+     1790.82
     ],
-    "front_edge": 6,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 3.29,
+    "setback_m": 22.32,
     "storeys": 1.0,
     "street": "w76418849.0",
     "type": "bungalow"
@@ -481118,12 +481118,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -1403.09,
-     1801.79
+     -1400.87,
+     1794.87
     ],
-    "front_edge": 8,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 2.72,
+    "setback_m": 36.09,
     "storeys": 2.0,
     "street": "w76418849.0",
     "type": "detached"
@@ -481341,12 +481341,12 @@
    "height_m": 3.2,
    "house": {
     "door": [
-     -1413.34,
-     1806.7
+     -1411.61,
+     1801.33
     ],
-    "front_edge": 8,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 2.02,
+    "setback_m": 47.59,
     "storeys": 1.0,
     "street": "w76418849.0",
     "type": "bungalow"
@@ -483847,14 +483847,14 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     931.57,
-     1821.09
+     920.4,
+     1804.0
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 6.83,
+    "setback_m": 47.97,
     "storeys": 1.0,
-    "street": "w1316592371.0",
+    "street": "w461143736.0",
     "type": "bungalow"
    },
    "id": "w479797052.0",
@@ -483958,14 +483958,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1462.91,
-     1822.95
+     1460.06,
+     1820.28
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 19.51,
+    "setback_m": 39.45,
     "storeys": 1.5,
-    "street": "w76728284.0",
+    "street": "w76730175.0",
     "type": "cottage"
    },
    "id": "w479797066.0",
@@ -484013,14 +484013,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1477.05,
-     1822.95
+     1474.88,
+     1817.46
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 12.05,
+    "setback_m": 43.88,
     "storeys": 2.0,
-    "street": "w76728284.0",
+    "street": "w76730175.0",
     "type": "detached"
    },
    "id": "w479797082.0",
@@ -484405,14 +484405,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1488.69,
-     1822.24
+     1485.36,
+     1813.33
     ],
-    "front_edge": 0,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 7.68,
+    "setback_m": 45.08,
     "storeys": 2.0,
-    "street": "w76728284.0",
+    "street": "w76730175.0",
     "type": "detached"
    },
    "id": "w479797097.0",
@@ -484495,14 +484495,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1501.58,
-     1815.74
+     1502.78,
+     1807.97
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 8.97,
+    "setback_m": 39.77,
     "storeys": 2.0,
-    "street": "w76728284.0",
+    "street": "w461166085.1",
     "type": "detached"
    },
    "id": "w479797100.0",
@@ -484606,14 +484606,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     914.84,
-     1822.95
+     909.77,
+     1811.63
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 13.33,
+    "setback_m": 49.29,
     "storeys": 2.0,
-    "street": "w1316592371.0",
+    "street": "w461143736.0",
     "type": "detached"
    },
    "id": "w479797108.0",
@@ -485073,14 +485073,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1513.91,
-     1810.73
+     1514.89,
+     1805.96
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 9.39,
+    "setback_m": 27.83,
     "storeys": 2.0,
-    "street": "w76728284.0",
+    "street": "w461166085.1",
     "type": "detached"
    },
    "id": "w479797119.0",
@@ -485156,14 +485156,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1524.34,
-     1808.1
+     1524.62,
+     1802.55
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 8.25,
+    "setback_m": 17.58,
     "storeys": 2.0,
-    "street": "w76728284.0",
+    "street": "w461166085.1",
     "type": "detached"
    },
    "id": "w479797124.0",
@@ -491872,7 +491872,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 13.88,
+    "setback_m": 15.3,
     "storeys": 2.0,
     "street": "w76730219.2",
     "type": "detached"
@@ -492061,14 +492061,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1308.01,
-     1813.0
+     1311.47,
+     1807.14
     ],
-    "front_edge": 7,
+    "front_edge": 10,
     "party_walls": [],
-    "setback_m": 18.17,
+    "setback_m": 21.2,
     "storeys": 2.0,
-    "street": "w76730219.0",
+    "street": "w76728345.0",
     "type": "detached"
    },
    "id": "w479797284.0",
@@ -496588,7 +496588,7 @@
     ],
     "front_edge": 0,
     "party_walls": [],
-    "setback_m": 14.07,
+    "setback_m": 54.1,
     "storeys": 1.5,
     "street": "w76730175.0",
     "type": "cottage"
@@ -497486,12 +497486,12 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     1380.77,
-     1813.85
+     1380.39,
+     1809.38
     ],
-    "front_edge": 4,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 10.15,
+    "setback_m": 42.25,
     "storeys": 1.0,
     "street": "w76730175.0",
     "type": "bungalow"
@@ -499563,16 +499563,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1387.26,
-     1805.66
+     1379.57,
+     1794.27
     ],
-    "front_edge": 10,
+    "front_edge": 0,
     "party_walls": [
      7
     ],
-    "setback_m": 10.39,
+    "setback_m": 43.81,
     "storeys": 2.0,
-    "street": "w76730175.0",
+    "street": "w76728345.0",
     "type": "semi"
    },
    "id": "w479797498.0",
@@ -500360,12 +500360,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1409.06,
+     1413.64,
      1820.91
     ],
-    "front_edge": 2,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 9.25,
+    "setback_m": 26.79,
     "storeys": 1.5,
     "street": "w76730175.0",
     "type": "cottage"
@@ -500413,7 +500413,7 @@
     ],
     "front_edge": 11,
     "party_walls": [],
-    "setback_m": 6.22,
+    "setback_m": 18.46,
     "storeys": 1.5,
     "street": "w76422404.0",
     "type": "cottage"
@@ -501345,14 +501345,14 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     1561.58,
-     1797.89
+     1561.81,
+     1793.75
     ],
-    "front_edge": 23,
+    "front_edge": 25,
     "party_walls": [
      0
     ],
-    "setback_m": 8.28,
+    "setback_m": 12.16,
     "storeys": 2.0,
     "street": "w461166085.1",
     "type": "terrace"
@@ -501556,14 +501556,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1396.2,
-     1798.98
+     1396.14,
+     1788.29
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [
      7
     ],
-    "setback_m": 8.27,
+    "setback_m": 22.21,
     "storeys": 2.0,
     "street": "w76730175.0",
     "type": "semi"
@@ -501912,9 +501912,9 @@
     ],
     "front_edge": 9,
     "party_walls": [],
-    "setback_m": 8.47,
+    "setback_m": 21.02,
     "storeys": 2.0,
-    "street": "w461166085.0",
+    "street": "w461166085.1",
     "type": "detached"
    },
    "id": "w479797528.0",
@@ -502018,14 +502018,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1571.64,
-     1819.63
+     1574.45,
+     1814.69
     ],
-    "front_edge": 2,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 9.82,
+    "setback_m": 32.03,
     "storeys": 2.0,
-    "street": "w461166085.0",
+    "street": "w461166085.1",
     "type": "detached"
    },
    "id": "w479797530.0",
@@ -502108,12 +502108,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1418.92,
-     1812.32
+     1424.45,
+     1811.32
     ],
-    "front_edge": 3,
+    "front_edge": 6,
     "party_walls": [],
-    "setback_m": 9.97,
+    "setback_m": 15.89,
     "storeys": 2.0,
     "street": "w76730175.0",
     "type": "detached"
@@ -502314,7 +502314,7 @@
     ],
     "front_edge": 5,
     "party_walls": [],
-    "setback_m": 6.05,
+    "setback_m": 24.47,
     "storeys": 2.0,
     "street": "w76422404.0",
     "type": "detached"
@@ -502563,7 +502563,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 6.25,
+    "setback_m": 11.97,
     "storeys": 2.0,
     "street": "w76730175.0",
     "type": "detached"
@@ -502951,7 +502951,7 @@
     ],
     "front_edge": 14,
     "party_walls": [],
-    "setback_m": 11.34,
+    "setback_m": 11.42,
     "storeys": 2.0,
     "street": "w76730175.0",
     "type": "detached"
@@ -504160,12 +504160,12 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     794.74,
-     1804.99
+     796.03,
+     1796.5
     ],
-    "front_edge": 10,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 6.61,
+    "setback_m": 38.66,
     "storeys": 1.0,
     "street": "w76422404.0",
     "type": "bungalow"
@@ -505152,12 +505152,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     789.7,
-     1808.61
+     787.56,
+     1802.09
     ],
-    "front_edge": 4,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 5.95,
+    "setback_m": 47.88,
     "storeys": 2.0,
     "street": "w76422404.0",
     "type": "detached"
@@ -507807,14 +507807,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     952.1,
-     1809.41
+     948.66,
+     1800.11
     ],
-    "front_edge": 4,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 7.08,
+    "setback_m": 49.91,
     "storeys": 1.5,
-    "street": "w1316592371.0",
+    "street": "w538555488.0",
     "type": "cottage"
    },
    "id": "w479797640.0",
@@ -507904,14 +507904,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1265.19,
-     1821.85
+     1262.25,
+     1819.67
     ],
-    "front_edge": 0,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 12.85,
+    "setback_m": 25.35,
     "storeys": 1.5,
-    "street": "w76730219.0",
+    "street": "w76730219.2",
     "type": "cottage"
    },
    "id": "w479797642.0",
@@ -509547,12 +509547,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1202.32,
-     1803.55
+     1201.3,
+     1798.99
     ],
-    "front_edge": 11,
+    "front_edge": 13,
     "party_walls": [],
-    "setback_m": 7.12,
+    "setback_m": 13.26,
     "storeys": 2.0,
     "street": "w76730671.1",
     "type": "detached"
@@ -509686,12 +509686,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1207.98,
-     1814.1
+     1210.77,
+     1808.46
     ],
-    "front_edge": 9,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 8.34,
+    "setback_m": 26.18,
     "storeys": 1.5,
     "street": "w76730671.1",
     "type": "cottage"
@@ -514900,16 +514900,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     945.42,
-     1813.5
+     933.86,
+     1799.33
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [
      9
     ],
-    "setback_m": 6.71,
+    "setback_m": 50.62,
     "storeys": 2.0,
-    "street": "w1316592371.0",
+    "street": "w461143736.0",
     "type": "semi"
    },
    "id": "w479797811.0",
@@ -514999,14 +514999,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1321.73,
-     1820.12
+     1325.05,
+     1811.65
     ],
-    "front_edge": 4,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 23.36,
+    "setback_m": 31.85,
     "storeys": 2.0,
-    "street": "w76730219.0",
+    "street": "w76728345.0",
     "type": "detached"
    },
    "id": "w479797814.0",
@@ -517551,12 +517551,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1619.06,
-     1806.62
+     1617.31,
+     1804.71
     ],
-    "front_edge": 11,
+    "front_edge": 9,
     "party_walls": [],
-    "setback_m": 9.26,
+    "setback_m": 12.35,
     "storeys": 1.5,
     "street": "w76729351.1",
     "type": "cottage"
@@ -517716,7 +517716,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 8.69,
+    "setback_m": 16.82,
     "storeys": 1.0,
     "street": "w76729351.1",
     "type": "bungalow"
@@ -517917,9 +517917,9 @@
     ],
     "front_edge": 2,
     "party_walls": [],
-    "setback_m": 30.41,
+    "setback_m": 26.82,
     "storeys": 1.5,
-    "street": "w76729351.3",
+    "street": "w76729351.1",
     "type": "cottage"
    },
    "id": "w479797881.0",
@@ -518043,16 +518043,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     938.76,
-     1815.09
+     929.72,
+     1805.15
     ],
-    "front_edge": 2,
+    "front_edge": 0,
     "party_walls": [
      1
     ],
-    "setback_m": 8.56,
+    "setback_m": 53.6,
     "storeys": 2.0,
-    "street": "w1316592371.0",
+    "street": "w461143736.0",
     "type": "semi"
    },
    "id": "w479797897.0",
@@ -518100,14 +518100,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1339.75,
-     1822.95
+     1339.76,
+     1816.32
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 36.92,
+    "setback_m": 43.21,
     "storeys": 2.0,
-    "street": "w76730175.0",
+    "street": "w76728345.0",
     "type": "detached"
    },
    "id": "w479797907.0",
@@ -519259,12 +519259,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     873.96,
-     1821.16
+     878.94,
+     1816.31
     ],
-    "front_edge": 4,
+    "front_edge": 7,
     "party_walls": [],
-    "setback_m": 5.33,
+    "setback_m": 36.23,
     "storeys": 1.5,
     "street": "w572126749.0",
     "type": "cottage"
@@ -519539,16 +519539,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     807.65,
-     1799.87
+     800.35,
+     1785.83
     ],
-    "front_edge": 1,
+    "front_edge": 9,
     "party_walls": [
      0
     ],
-    "setback_m": 4.66,
+    "setback_m": 52.76,
     "storeys": 2.0,
-    "street": "w76422404.0",
+    "street": "w804749902.0",
     "type": "terrace"
    },
    "id": "w479798031.0",
@@ -519896,16 +519896,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     867.54,
-     1808.16
+     869.23,
+     1804.08
     ],
-    "front_edge": 3,
+    "front_edge": 4,
     "party_walls": [
      0
     ],
-    "setback_m": 6.07,
+    "setback_m": 22.54,
     "storeys": 2.0,
-    "street": "w572126749.0",
+    "street": "w461143736.0",
     "type": "semi"
    },
    "id": "w479798054.0",
@@ -616190,12 +616190,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1813.77,
-     -1761.45
+     1811.64,
+     -1768.69
     ],
-    "front_edge": 4,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 11.24,
+    "setback_m": 16.94,
     "storeys": 2.0,
     "street": "w532458620.0",
     "type": "detached"
@@ -648906,7 +648906,7 @@
      0,
      1
     ],
-    "setback_m": 8.35,
+    "setback_m": 18.71,
     "storeys": 2.0,
     "street": "w532027432.3",
     "type": "terrace"
@@ -649824,7 +649824,7 @@
     ],
     "front_edge": 1,
     "party_walls": [],
-    "setback_m": 7.68,
+    "setback_m": 11.03,
     "storeys": 2.0,
     "street": "w76443587.0",
     "type": "detached"
@@ -653059,14 +653059,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1293.06,
-     -1803.76
+     1293.46,
+     -1800.04
     ],
-    "front_edge": 3,
+    "front_edge": 5,
     "party_walls": [],
-    "setback_m": 5.41,
+    "setback_m": 15.15,
     "storeys": 2.0,
-    "street": "w76443587.1",
+    "street": "w76443587.0",
     "type": "detached"
    },
    "id": "w481446503.0",
@@ -655206,7 +655206,7 @@
     ],
     "front_edge": 3,
     "party_walls": [],
-    "setback_m": 7.03,
+    "setback_m": 7.61,
     "storeys": 1.5,
     "street": "w532027432.3",
     "type": "cottage"
@@ -767058,16 +767058,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -1812.4,
-     1059.92
+     -1808.46,
+     1058.27
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [
      0
     ],
-    "setback_m": 0.0,
+    "setback_m": 14.32,
     "storeys": 2.0,
-    "street": "w305081740.0",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w481805251.0",
@@ -836891,12 +836891,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1755.09,
-     1791.87
+     1756.27,
+     1785.88
     ],
-    "front_edge": 6,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 8.88,
+    "setback_m": 17.43,
     "storeys": 1.5,
     "street": "w76728452.0",
     "type": "cottage"
@@ -837376,12 +837376,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1746.0,
-     1797.51
+     1743.96,
+     1789.16
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 8.97,
+    "setback_m": 28.95,
     "storeys": 1.5,
     "street": "w76728452.0",
     "type": "cottage"
@@ -838201,12 +838201,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1790.57,
-     1769.33
+     1787.39,
+     1770.75
     ],
-    "front_edge": 6,
+    "front_edge": 8,
     "party_walls": [],
-    "setback_m": 6.71,
+    "setback_m": 7.6,
     "storeys": 1.5,
     "street": "w76728452.0",
     "type": "cottage"
@@ -839144,7 +839144,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 7.16,
+    "setback_m": 14.85,
     "storeys": 2.0,
     "street": "w76728452.0",
     "type": "detached"
@@ -839658,14 +839658,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1686.55,
-     1822.95
+     1682.3,
+     1815.53
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [],
-    "setback_m": 12.31,
+    "setback_m": 44.9,
     "storeys": 2.0,
-    "street": "w76728452.0",
+    "street": "w76730193.0",
     "type": "detached"
    },
    "id": "w482924372.0",
@@ -840421,14 +840421,14 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1699.22,
-     1822.29
+     1692.91,
+     1814.12
     ],
-    "front_edge": 0,
+    "front_edge": 6,
     "party_walls": [],
-    "setback_m": 7.74,
+    "setback_m": 47.72,
     "storeys": 1.5,
-    "street": "w76728452.0",
+    "street": "w76730193.0",
     "type": "cottage"
    },
    "id": "w482924412.0",
@@ -840753,12 +840753,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1737.08,
-     1802.21
+     1736.11,
+     1795.76
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [],
-    "setback_m": 9.66,
+    "setback_m": 36.85,
     "storeys": 1.5,
     "street": "w76728452.0",
     "type": "cottage"
@@ -840919,14 +840919,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1716.13,
-     1813.26
+     1708.77,
+     1798.87
     ],
-    "front_edge": 2,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 8.88,
+    "setback_m": 40.32,
     "storeys": 2.0,
-    "street": "w76728452.0",
+    "street": "w76730193.0",
     "type": "detached"
    },
    "id": "w482924439.0",
@@ -841307,12 +841307,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1761.43,
-     1786.2
+     1764.75,
+     1783.0
     ],
-    "front_edge": 4,
+    "front_edge": 2,
     "party_walls": [],
-    "setback_m": 9.83,
+    "setback_m": 11.13,
     "storeys": 2.0,
     "street": "w76728452.0",
     "type": "detached"
@@ -841376,12 +841376,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1795.19,
-     1679.88
+     1788.16,
+     1682.65
     ],
-    "front_edge": 4,
+    "front_edge": 8,
     "party_walls": [],
-    "setback_m": 5.68,
+    "setback_m": 7.67,
     "storeys": 2.0,
     "street": "w76730193.0",
     "type": "detached"
@@ -841852,7 +841852,7 @@
     ],
     "front_edge": 6,
     "party_walls": [],
-    "setback_m": 10.6,
+    "setback_m": 23.16,
     "storeys": 1.5,
     "street": "w76728452.0",
     "type": "cottage"
@@ -841930,14 +841930,14 @@
    "height_m": 3.0,
    "house": {
     "door": [
-     1706.46,
-     1818.18
+     1699.91,
+     1806.18
     ],
-    "front_edge": 2,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 8.54,
+    "setback_m": 43.11,
     "storeys": 1.0,
-    "street": "w76728452.0",
+    "street": "w76730193.0",
     "type": "bungalow"
    },
    "id": "w482924472.0",
@@ -842350,7 +842350,7 @@
     ],
     "front_edge": 0,
     "party_walls": [],
-    "setback_m": 9.17,
+    "setback_m": 12.32,
     "storeys": 2.0,
     "street": "w76728452.0",
     "type": "detached"
@@ -842456,14 +842456,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1726.03,
-     1808.01
+     1718.56,
+     1793.56
     ],
-    "front_edge": 2,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 9.33,
+    "setback_m": 40.38,
     "storeys": 2.0,
-    "street": "w76728452.0",
+    "street": "w76730193.0",
     "type": "detached"
    },
    "id": "w482924496.0",
@@ -843995,7 +843995,7 @@
     ],
     "front_edge": 3,
     "party_walls": [],
-    "setback_m": 7.43,
+    "setback_m": 14.21,
     "storeys": 2.0,
     "street": "w76729577.2",
     "type": "detached"
@@ -844304,12 +844304,12 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1656.85,
-     1822.95
+     1656.43,
+     1821.95
     ],
-    "front_edge": 1,
+    "front_edge": 2,
     "party_walls": [],
-    "setback_m": 12.33,
+    "setback_m": 38.65,
     "storeys": 2.0,
     "street": "w76729351.1",
     "type": "detached"
@@ -845239,14 +845239,14 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1641.17,
-     1800.8
+     1642.53,
+     1793.26
     ],
-    "front_edge": 3,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 6.4,
+    "setback_m": 8.94,
     "storeys": 2.0,
-    "street": "w76729351.1",
+    "street": "w76730193.0",
     "type": "detached"
    },
    "id": "w482924600.0",
@@ -845468,12 +845468,12 @@
    "height_m": 4.2,
    "house": {
     "door": [
-     1804.49,
-     1639.62
+     1796.1,
+     1641.61
     ],
-    "front_edge": 1,
+    "front_edge": 0,
     "party_walls": [],
-    "setback_m": 6.45,
+    "setback_m": 24.46,
     "storeys": 1.5,
     "street": "w76729577.2",
     "type": "cottage"
@@ -871806,16 +871806,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     -393.66,
-     1814.23
+     -400.22,
+     1800.83
     ],
-    "front_edge": 1,
+    "front_edge": 7,
     "party_walls": [
      0
     ],
-    "setback_m": 6.78,
+    "setback_m": 44.86,
     "storeys": 2.0,
-    "street": "w76422005.0",
+    "street": "w76419103.4",
     "type": "semi"
    },
    "id": "w549603570.0",
@@ -871891,16 +871891,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -376.25,
-     1800.56
+     -377.4,
+     1792.41
     ],
-    "front_edge": 7,
+    "front_edge": 4,
     "party_walls": [
      0
     ],
-    "setback_m": 9.84,
+    "setback_m": 25.7,
     "storeys": 2.0,
-    "street": "w76422005.0",
+    "street": "w76419103.6",
     "type": "terrace"
    },
    "id": "w549603571.0",
@@ -872983,7 +872983,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 10.8,
+    "setback_m": 12.1,
     "storeys": 2.0,
     "street": "w76421307.0",
     "type": "semi"
@@ -902600,7 +902600,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 17.9,
+    "setback_m": 18.12,
     "storeys": 2.0,
     "street": "w305807578.0",
     "type": "terrace"
@@ -912097,15 +912097,15 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     1788.8,
-     -162.17
+     1784.41,
+     -165.91
     ],
-    "front_edge": 3,
+    "front_edge": 2,
     "party_walls": [
      0,
      9
     ],
-    "setback_m": 11.09,
+    "setback_m": 19.02,
     "storeys": 2.0,
     "street": "w76441385.1",
     "type": "terrace"
@@ -913580,16 +913580,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1808.11,
-     -443.78
+     1793.95,
+     -435.67
     ],
-    "front_edge": 0,
+    "front_edge": 2,
     "party_walls": [
      1
     ],
-    "setback_m": 9.12,
+    "setback_m": 47.24,
     "storeys": 2.0,
-    "street": "w76441067.1",
+    "street": "w76442090.1",
     "type": "semi"
    },
    "id": "w583840593.0",
@@ -913658,16 +913658,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1804.4,
-     -449.51
+     1789.76,
+     -444.03
     ],
-    "front_edge": 1,
+    "front_edge": 5,
     "party_walls": [
      0
     ],
-    "setback_m": 9.49,
+    "setback_m": 47.74,
     "storeys": 2.0,
-    "street": "w76441067.1",
+    "street": "w76442090.1",
     "type": "semi"
    },
    "id": "w583840594.0",
@@ -913736,7 +913736,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 6.83,
+    "setback_m": 32.44,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "semi"
@@ -913807,14 +913807,14 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     1794.2,
-     -472.01
+     1791.59,
+     -474.7
     ],
-    "front_edge": 2,
+    "front_edge": 1,
     "party_walls": [
      0
     ],
-    "setback_m": 7.18,
+    "setback_m": 19.3,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "terrace"
@@ -913892,7 +913892,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 9.64,
+    "setback_m": 12.99,
     "storeys": 2.0,
     "street": "w76441067.1",
     "type": "semi"
@@ -914766,16 +914766,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     1775.53,
-     -419.13
+     1768.48,
+     -413.73
     ],
-    "front_edge": 1,
+    "front_edge": 2,
     "party_walls": [
      0
     ],
-    "setback_m": 49.63,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w76441067.1",
+    "street": null,
     "type": "semi"
    },
    "id": "w583840633.0",
@@ -925861,9 +925861,9 @@
      0,
      3
     ],
-    "setback_m": 52.54,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w305807578.0",
+    "street": null,
     "type": "terrace"
    },
    "id": "w584077799.0",
@@ -926135,7 +926135,7 @@
      0,
      4
     ],
-    "setback_m": 4.79,
+    "setback_m": 5.19,
     "storeys": 2.0,
     "street": "w76441482.2",
     "type": "terrace"
@@ -926236,7 +926236,7 @@
      3,
      4
     ],
-    "setback_m": 6.24,
+    "setback_m": 8.49,
     "storeys": 2.0,
     "street": "w76441482.2",
     "type": "terrace"
@@ -926322,9 +926322,9 @@
      0,
      4
     ],
-    "setback_m": 32.12,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w305807578.0",
+    "street": null,
     "type": "terrace"
    },
    "id": "w584077804.0",
@@ -926407,7 +926407,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 6.37,
+    "setback_m": 15.63,
     "storeys": 2.0,
     "street": "w76441482.2",
     "type": "terrace"
@@ -942285,16 +942285,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     696.9,
-     1816.58
+     693.95,
+     1809.17
     ],
-    "front_edge": 9,
+    "front_edge": 8,
     "party_walls": [
      0
     ],
-    "setback_m": 44.98,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w76422404.0",
+    "street": null,
     "type": "semi"
    },
    "id": "w584481476.0",
@@ -942384,16 +942384,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     776.02,
-     1813.81
+     767.35,
+     1799.69
     ],
-    "front_edge": 7,
+    "front_edge": 1,
     "party_walls": [
      0
     ],
-    "setback_m": 8.2,
+    "setback_m": 48.48,
     "storeys": 2.0,
-    "street": "w76422404.0",
+    "street": "w804749902.0",
     "type": "terrace"
    },
    "id": "w584481477.0",
@@ -943204,7 +943204,7 @@
      3,
      4
     ],
-    "setback_m": 6.22,
+    "setback_m": 22.74,
     "storeys": 2.0,
     "street": "w76422404.0",
     "type": "terrace"
@@ -943290,7 +943290,7 @@
      0,
      4
     ],
-    "setback_m": 4.67,
+    "setback_m": 16.93,
     "storeys": 2.0,
     "street": "w76422404.0",
     "type": "terrace"
@@ -943368,16 +943368,16 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     819.49,
-     1793.11
+     821.08,
+     1790.58
     ],
-    "front_edge": 7,
+    "front_edge": 5,
     "party_walls": [
      0,
      3,
      4
     ],
-    "setback_m": 4.68,
+    "setback_m": 12.98,
     "storeys": 2.0,
     "street": "w76422404.0",
     "type": "terrace"
@@ -943463,7 +943463,7 @@
      0,
      4
     ],
-    "setback_m": 4.56,
+    "setback_m": 7.68,
     "storeys": 2.0,
     "street": "w76422404.0",
     "type": "terrace"
@@ -943924,16 +943924,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     870.93,
-     1814.34
+     875.37,
+     1815.02
     ],
-    "front_edge": 3,
+    "front_edge": 2,
     "party_walls": [
      0
     ],
-    "setback_m": 6.02,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w572126749.0",
+    "street": null,
     "type": "semi"
    },
    "id": "w584481495.0",
@@ -945437,7 +945437,7 @@
      0,
      1
     ],
-    "setback_m": 8.42,
+    "setback_m": 16.71,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "terrace"
@@ -945522,7 +945522,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 8.33,
+    "setback_m": 26.93,
     "storeys": 2.0,
     "street": "w804749902.0",
     "type": "terrace"
@@ -945984,9 +945984,9 @@
      0,
      2
     ],
-    "setback_m": 6.34,
+    "setback_m": 6.9,
     "storeys": 2.0,
-    "street": "w804749903.0",
+    "street": "w804749903.1",
     "type": "terrace"
    },
    "id": "w584484120.0",
@@ -946041,9 +946041,9 @@
     "party_walls": [
      0
     ],
-    "setback_m": 6.22,
+    "setback_m": 12.9,
     "storeys": 2.0,
-    "street": "w804749903.0",
+    "street": "w804749903.1",
     "type": "terrace"
    },
    "id": "w584484121.0",
@@ -951103,16 +951103,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     295.92,
-     1807.12
+     283.13,
+     1792.05
     ],
-    "front_edge": 1,
+    "front_edge": 5,
     "party_walls": [
      0
     ],
-    "setback_m": 10.96,
+    "setback_m": 54.3,
     "storeys": 2.0,
-    "street": "w76420785.2",
+    "street": "w76419162.1",
     "type": "semi"
    },
    "id": "w584485101.0",
@@ -951174,16 +951174,16 @@
    "height_m": 5.8,
    "house": {
     "door": [
-     279.23,
-     1816.16
+     273.23,
+     1810.29
     ],
-    "front_edge": 1,
+    "front_edge": 2,
     "party_walls": [
      0
     ],
-    "setback_m": 11.45,
+    "setback_m": null,
     "storeys": 2.0,
-    "street": "w76420785.2",
+    "street": null,
     "type": "semi"
    },
    "id": "w584485102.0",
@@ -1025815,9 +1025815,9 @@
     "party_walls": [
      3
     ],
-    "setback_m": 9.95,
+    "setback_m": 11.17,
     "storeys": 2.0,
-    "street": "w76422617.1",
+    "street": "w76422617.2",
     "type": "terrace"
    },
    "id": "w589533378.0",
@@ -1025879,7 +1025879,7 @@
     "party_walls": [
      0
     ],
-    "setback_m": 1.07,
+    "setback_m": 6.1,
     "storeys": 2.0,
     "street": "w76419688.0",
     "type": "terrace"
@@ -1025929,17 +1025929,17 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -674.53,
-     1802.28
+     -662.52,
+     1799.37
     ],
-    "front_edge": 1,
+    "front_edge": 3,
     "party_walls": [
      0,
      2
     ],
-    "setback_m": 1.39,
+    "setback_m": 29.95,
     "storeys": 2.0,
-    "street": "w76419688.0",
+    "street": "w76422617.2",
     "type": "terrace"
    },
    "id": "w589533380.0",
@@ -1072877,9 +1072877,9 @@
      1,
      5
     ],
-    "setback_m": 0.0,
+    "setback_m": 3.09,
     "storeys": 2.0,
-    "street": "w305081740.2",
+    "street": "w76423869.0",
     "type": "terrace"
    },
    "id": "w620210275.0",
@@ -1072970,9 +1072970,9 @@
      1,
      5
     ],
-    "setback_m": 0.0,
+    "setback_m": 3.99,
     "storeys": 2.0,
-    "street": "w305081740.1",
+    "street": "w76423869.0",
     "type": "terrace"
    },
    "id": "w620210276.0",
@@ -1073048,17 +1073048,17 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -1801.46,
-     1094.11
+     -1803.42,
+     1096.13
     ],
-    "front_edge": 6,
+    "front_edge": 0,
     "party_walls": [
      1,
      3
     ],
-    "setback_m": 0.0,
+    "setback_m": 8.07,
     "storeys": 2.0,
-    "street": "w305081740.1",
+    "street": "w76423869.0",
     "type": "terrace"
    },
    "id": "w620210277.0",
@@ -1073127,17 +1073127,17 @@
    "height_m": 6.0,
    "house": {
     "door": [
-     -1805.4,
-     1084.64
+     -1805.82,
+     1087.43
     ],
-    "front_edge": 6,
+    "front_edge": 7,
     "party_walls": [
      1,
      4
     ],
-    "setback_m": 0.0,
+    "setback_m": 15.73,
     "storeys": 2.0,
-    "street": "w305081740.1",
+    "street": "w76423869.0",
     "type": "terrace"
    },
    "id": "w620210278.0",
@@ -1073221,9 +1073221,9 @@
      1,
      3
     ],
-    "setback_m": 0.0,
+    "setback_m": 16.68,
     "storeys": 2.0,
-    "street": "w305081740.1",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w620210279.0",
@@ -1073293,9 +1073293,9 @@
      1,
      5
     ],
-    "setback_m": 0.0,
+    "setback_m": 15.91,
     "storeys": 2.0,
-    "street": "w305081740.1",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w620210280.0",
@@ -1073386,9 +1073386,9 @@
      1,
      3
     ],
-    "setback_m": 0.0,
+    "setback_m": 16.79,
     "storeys": 2.0,
-    "street": "w305081740.0",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w620210281.0",
@@ -1073458,9 +1073458,9 @@
      1,
      3
     ],
-    "setback_m": 0.0,
+    "setback_m": 17.9,
     "storeys": 2.0,
-    "street": "w305081740.0",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w620210282.0",
@@ -1073529,9 +1073529,9 @@
     "party_walls": [
      1
     ],
-    "setback_m": 1.53,
+    "setback_m": 22.03,
     "storeys": 2.0,
-    "street": "w305081740.0",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w620210283.0",
@@ -1073675,7 +1073675,7 @@
      2,
      3
     ],
-    "setback_m": 10.19,
+    "setback_m": 11.91,
     "storeys": 2.0,
     "street": "w305081739.0",
     "type": "terrace"
@@ -1073741,7 +1073741,7 @@
      2,
      4
     ],
-    "setback_m": 9.45,
+    "setback_m": 9.59,
     "storeys": 2.0,
     "street": "w305081739.0",
     "type": "terrace"
@@ -1075390,16 +1075390,16 @@
    "height_m": 6.4,
    "house": {
     "door": [
-     -1797.33,
-     1087.25
+     -1798.75,
+     1074.48
     ],
-    "front_edge": 4,
+    "front_edge": 7,
     "party_walls": [
      0
     ],
-    "setback_m": 0.0,
+    "setback_m": 6.19,
     "storeys": 2.0,
-    "street": "w305081740.1",
+    "street": "w305081739.0",
     "type": "terrace"
    },
    "id": "w620210310.0",
@@ -1102401,7 +1102401,7 @@
      0,
      6
     ],
-    "setback_m": 8.28,
+    "setback_m": 14.36,
     "storeys": 2.0,
     "street": "w532027432.3",
     "type": "terrace"

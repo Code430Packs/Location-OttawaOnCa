@@ -1,0 +1,53 @@
+{
+ "attribution": [
+  "© OpenStreetMap contributors",
+  "Elevation: High Resolution Digital Elevation Model (HRDEM), Natural Resources Canada, Open Government Licence - Canada"
+ ],
+ "authors": [
+  "Code 430 contributors"
+ ],
+ "build": {
+  "importer": "92e095c07447",
+  "inputs": {
+   "bridges": "2026-10-22T23:47:01Z",
+   "buildings": "2026-10-22T23:47:01Z",
+   "parking": "2026-10-22T23:47:56Z",
+   "roads": "2026-10-22T23:45:53Z",
+   "services": "2026-10-22T23:49:01Z",
+   "vegetation": "2026-10-22T23:47:56Z",
+   "water": "2026-10-22T23:45:53Z"
+  }
+ },
+ "dependencies": [],
+ "description": "Generated from OpenStreetMap by tools/osm_import. Roads, junctions, and terrain for one district.",
+ "engine_api": 0,
+ "id": "code430.ottawa-hintonburg",
+ "license": "ODbL-1.0",
+ "map": {
+  "bbox": [
+   45.4035858,
+   -75.7410173,
+   45.43599,
+   -75.7176992
+  ],
+  "border": {
+   "chunks": [
+    -14,
+    -7,
+    -7,
+    7
+   ]
+  },
+  "crs": "EPSG:32618",
+  "origin": {
+   "easting": 445625.0,
+   "lat": 45.4200027,
+   "lon": -75.6950007,
+   "northing": 5029844.0
+  }
+ },
+ "name": "Ottawa Hintonburg",
+ "schema_version": 0,
+ "type": "map",
+ "version": "0.1.0"
+}

@@ -1,27 +1,27 @@
 # Road network validation: Ottawa Centretown
 
-- Nodes: 4405, edges: 5407, total length: 295.0 km
-- Connected components: 26 (largest has 4303 nodes)
-- Largest strongly connected component: 4148 nodes
-- Dead ends: bbox_edge 104, declared_noexit 22, likely_real 204, suspicious 0, parking 1008
+- Nodes: 4363, edges: 5313, total length: 274.272 km
+- Connected components: 40 (largest has 4212 nodes)
+- Largest strongly connected component: 4045 nodes
+- Dead ends: bbox_edge 144, declared_noexit 21, likely_real 198, suspicious 0, parking 1010
 - Ramp problems: 0; one-way traps: 0 (plus 33 one-way stubs that simply dead-end, counted under dead ends)
-- Defaulted fields: lanes 2034, speed_kph 2644, width 5397
+- Defaulted fields: lanes 1997, speed_kph 2599, width 5303
 
 ## Edge classes
 
 | Class | Edges |
 |---|---|
-| living_street | 13 |
-| motorway | 71 |
-| motorway_link | 55 |
-| parking | 1729 |
-| primary | 352 |
+| living_street | 11 |
+| motorway | 70 |
+| motorway_link | 52 |
+| parking | 1696 |
+| primary | 349 |
 | primary_link | 27 |
-| residential | 1516 |
-| secondary | 790 |
+| residential | 1483 |
+| secondary | 785 |
 | secondary_link | 15 |
-| service | 474 |
-| tertiary | 235 |
+| service | 470 |
+| tertiary | 225 |
 | tertiary_link | 3 |
 | trunk | 7 |
 | unclassified | 120 |
@@ -30,40 +30,54 @@
 
 | Nodes | Edges | Likely cause | Classes | Sample names | Sample way ids |
 |---|---|---|---|---|---|
-| 4303 | 5325 | main network | living_street 13, motorway 66, motorway_link 53, parking 1687, primary 352, primary_link 27, residential 1494, secondary 790, secondary_link 15, service 463, tertiary 235, tertiary_link 3, trunk 7, unclassified 120 | 1 Nelson Street, 2nd Avenue, 3rd Avenue, 4th Avenue, Academy Private, Albert Street, Alexandra Bridge, Allan Place | 4651824, 4852253, 4864286, 4970097, 5023388, 5023504, 5023513, 5023539 |
-| 35 | 38 | cut by bbox edge | parking 17, residential 12, service 9 | City Centre Avenue, Elm Street West, Spruce Street West, Tuscan Private | 76422341, 76422863, 76423710, 76424064, 457873964, 484816100, 484816101, 484816102 |
+| 4212 | 5196 | main network | living_street 10, motorway 65, motorway_link 50, parking 1639, primary 349, primary_link 27, residential 1452, secondary 785, secondary_link 15, service 449, tertiary 225, tertiary_link 3, trunk 7, unclassified 120 | 1 Nelson Street, 2nd Avenue, 3rd Avenue, 4th Avenue, Academy Private, Albert Street, Alexandra Bridge, Allan Place | 4651824, 4852253, 4864286, 4970097, 5023388, 5023504, 5023513, 5023539 |
+| 28 | 31 | cut by bbox edge | parking 13, residential 7, service 11 | Laurel Street, Loretta Avenue North | 76419878, 532069196, 532957429, 680574436, 694104402, 738307856, 738307857, 738307858 |
+| 19 | 18 | cut by bbox edge | parking 3, residential 8, service 7 | City Centre Avenue, Spruce Street West, Tuscan Private | 76422863, 76423710, 76424064, 484816102, 539939275, 680598004, 688779336, 714792395 |
 | 8 | 7 | cut by bbox edge | motorway 5, motorway_link 2 | Pont Macdonald-Cartier Bridge | 76419271, 76423554, 216955090, 621115407, 1443196960, 1443196961, 1443196962 |
-| 7 | 7 | cut by bbox edge | parking 7 | - | 690496637, 690496640, 690496641, 690496642 |
+| 6 | 5 | cut by bbox edge | parking 5 | - | 681974180, 681974181, 834841319 |
+| 6 | 5 | cut by bbox edge | parking 5 | - | 152627343, 1502698624 |
+| 5 | 5 | cut by bbox edge | parking 5 | - | 690496640, 690496641, 690496642 |
+| 4 | 3 | cut by bbox edge | parking 3 | - | 690496637, 690496642 |
+| 4 | 3 | cut by bbox edge | parking 1, residential 2 | Elm Street West | 76422341, 694095955 |
 | 4 | 3 | cut by bbox edge | residential 3 | Coupal Street, North River Road | 76442255, 532458620 |
 | 4 | 3 | isolated island | residential 3 | Jemruss Private | 510049468, 510049469, 510049470 |
 | 4 | 3 | isolated island | parking 3 | - | 1090887322, 1090887323 |
 | 3 | 2 | cut by bbox edge | parking 1, service 1 | Impasse du Cuvier | 951334435, 1282544534 |
 | 3 | 2 | cut by bbox edge | residential 2 | Bell Street South, Orangeville Street | 278141962, 1334375649 |
-| 2 | 1 | isolated island | parking 1 | - | 1237878328 |
-| 2 | 1 | isolated island | parking 1 | - | 1237875300 |
-| 2 | 1 | cut by bbox edge | residential 1 | Chaudière Private | 551942811 |
-| 2 | 1 | isolated island | service 1 | - | 1494127368 |
+| 3 | 2 | cut by bbox edge | parking 2 | - | 429538868, 429538870 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 743693736 |
+| 2 | 1 | cut by bbox edge | residential 1 | Arthur Lane South | 76419688 |
+| 2 | 1 | cut by bbox edge | residential 1 | Breezehill Avenue North | 76422397 |
+| 2 | 1 | cut by bbox edge | residential 1 | Wiggins Private | 76444822 |
 | 2 | 1 | cut by bbox edge | parking 1 | - | 764455593 |
-| 2 | 1 | cut by bbox edge | parking 1 | - | 670737046 |
-| 2 | 1 | isolated island | parking 1 | - | 681424135 |
+| 2 | 1 | cut by bbox edge | residential 1 | Belgrave Road | 76728452 |
+| 2 | 1 | cut by bbox edge | residential 1 | Echo Drive | 76730671 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 804759057 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 1310620256 |
+| 2 | 1 | cut by bbox edge | service 1 | - | 1557864781 |
+| 2 | 1 | cut by bbox edge | living_street 1 | Walnut Court | 305081740 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 429538867 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 429538869 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 484816105 |
+| 2 | 1 | cut by bbox edge | residential 1 | Chaudière Private | 551942811 |
 | 2 | 1 | cut by bbox edge | parking 1 | - | 681423187 |
 | 2 | 1 | cut by bbox edge | parking 1 | - | 681423188 |
+| 2 | 1 | cut by bbox edge | parking 1 | - | 681869340 |
 | 2 | 1 | cut by bbox edge | parking 1 | - | 681869344 |
-| 2 | 1 | cut by bbox edge | parking 1 | - | 694104401 |
-| 2 | 1 | cut by bbox edge | parking 1 | - | 694104403 |
-| 2 | 1 | cut by bbox edge | parking 1 | - | 740864686 |
-| 2 | 1 | cut by bbox edge | parking 1 | - | 743693753 |
-| 2 | 1 | cut by bbox edge | residential 1 | Arthur Lane South | 76419688 |
+| 2 | 1 | isolated island | parking 1 | - | 1237878328 |
+| 2 | 1 | isolated island | parking 1 | - | 1237875300 |
+| 2 | 1 | isolated island | service 1 | - | 1494127368 |
+| 2 | 1 | isolated island | parking 1 | - | 681424135 |
 | 2 | 1 | isolated island | parking 1 | - | 1090887527 |
 | 2 | 1 | isolated island | parking 1 | - | 1090887528 |
 
 ## Dead ends
 
-### bbox_edge (104)
+### bbox_edge (144)
 
-104 entries; listed in the JSON report only.
+144 entries; listed in the JSON report only.
 
-### declared_noexit (22)
+### declared_noexit (21)
 
 | Node | Way | Class | Name |
 |---|---|---|---|
@@ -75,7 +89,6 @@
 | 5927937618 | 627926477 | service | - |
 | 901045662 | 76422485 | service | Charisma Private |
 | 901048877 | 76423932 | residential | Academy Private |
-| 901053381 | 76419688 | residential | Arthur Lane South |
 | 901056038 | 76419338 | residential | Larch Street |
 | 901056235 | 76422434 | residential | Laurel Street East |
 | 901057607 | 76424339 | residential | Oak Street |
@@ -90,18 +103,60 @@
 | 9108026540 | 690791008 | service | - |
 | 9108026541 | 690791007 | service | - |
 
-### likely_real (204)
+### likely_real (198)
 
-204 entries; listed in the JSON report only.
+198 entries; listed in the JSON report only.
 
 ### suspicious (0)
 
 none
 
-### parking (1008)
+### parking (1010)
 
 | Node | Way | Class | Name |
 |---|---|---|---|
+| 0 | 690496637 | parking | - |
+| 0 | 690496642 | parking | - |
+| 0 | 690496642 | parking | - |
+| 0 | 694104402 | parking | - |
+| 0 | 701099225 | parking | - |
+| 0 | 701335463 | parking | - |
+| 0 | 740990650 | parking | - |
+| 0 | 743693687 | parking | - |
+| 0 | 743693736 | parking | - |
+| 0 | 751967929 | parking | - |
+| 0 | 1292712925 | parking | - |
+| 0 | 764455593 | parking | - |
+| 0 | 1304145084 | parking | - |
+| 0 | 76726962 | parking | - |
+| 0 | 1310620256 | parking | - |
+| 0 | 804759057 | parking | - |
+| 0 | 834841319 | parking | - |
+| 0 | 1310620256 | parking | - |
+| 0 | 139570898 | parking | - |
+| 0 | 139570898 | parking | - |
+| 0 | 1502698621 | parking | - |
+| 0 | 1502698624 | parking | - |
+| 0 | 1502698624 | parking | - |
+| 0 | 1502698625 | parking | - |
+| 0 | 152627343 | parking | - |
+| 0 | 152627346 | parking | - |
+| 0 | 429538867 | parking | - |
+| 0 | 429538869 | parking | - |
+| 0 | 429538869 | parking | - |
+| 0 | 429538870 | parking | - |
+| 0 | 484816105 | parking | - |
+| 0 | 578604282 | parking | - |
+| 0 | 653764942 | parking | - |
+| 0 | 681423187 | parking | - |
+| 0 | 681423188 | parking | - |
+| 0 | 681869340 | parking | - |
+| 0 | 681869340 | parking | - |
+| 0 | 681869344 | parking | - |
+| 0 | 681914199 | parking | - |
+| 0 | 681974172 | parking | - |
+| 0 | 681974181 | parking | - |
+| 0 | 687215340 | parking | - |
 | 10091003078 | 1102738273 | parking | - |
 | 10091003095 | 985153658 | parking | - |
 | 10091003111 | 1144108568 | parking | - |
@@ -147,7 +202,6 @@ none
 | 11524042913 | 1240357791 | parking | - |
 | 11524101483 | 1240359895 | parking | - |
 | 11524101905 | 1240361012 | parking | - |
-| 11524101907 | 1240361013 | parking | - |
 | 11524161245 | 1240370263 | parking | - |
 | 11524161248 | 1240370264 | parking | - |
 | 11733293569 | 1262811447 | parking | - |
@@ -177,7 +231,6 @@ none
 | 11964667747 | 1290469621 | parking | - |
 | 11964667771 | 1290469626 | parking | - |
 | 11983814139 | 701335478 | parking | - |
-| 11983851373 | 1292712926 | parking | - |
 | 11983851416 | 1292712942 | parking | - |
 | 12049654336 | 1300945894 | parking | - |
 | 12049654338 | 1300945895 | parking | - |
@@ -192,7 +245,6 @@ none
 | 12052390790 | 1301230706 | parking | - |
 | 12052390794 | 1301230707 | parking | - |
 | 12053169375 | 1301311920 | parking | - |
-| 12055235935 | 484816100 | parking | - |
 | 12055235936 | 484816105 | parking | - |
 | 12064289102 | 1302640746 | parking | - |
 | 12068124249 | 1303081929 | parking | - |
@@ -236,19 +288,15 @@ none
 | 1309617767 | 116046005 | parking | - |
 | 13257087244 | 1444831042 | parking | - |
 | 13310859375 | 1451337325 | parking | - |
-| 13753853093 | 1502698625 | parking | - |
 | 13893753631 | 128240578 | parking | - |
 | 14003516803 | 681424136 | parking | - |
 | 14137961581 | 1553948969 | parking | - |
 | 14173490250 | 1558126543 | parking | - |
-| 14173505796 | 681974174 | parking | - |
 | 1417638490 | 128240426 | parking | - |
 | 1417643964 | 128241130 | parking | - |
-| 14190791291 | 1560055728 | parking | - |
 | 14307154752 | 1240128792 | parking | - |
 | 1451076589 | 131905190 | parking | - |
 | 1451078658 | 131905463 | parking | - |
-| 1524586785 | 764455593 | parking | - |
 | 1654326748 | 152627343 | parking | - |
 | 1773219607 | 165790219 | parking | - |
 | 1773222945 | 165790893 | parking | - |
@@ -269,7 +317,6 @@ none
 | 1865683731 | 1144108562 | parking | - |
 | 1865683735 | 1144108564 | parking | - |
 | 1993222464 | 188700984 | parking | - |
-| 2118009372 | 653764942 | parking | - |
 | 2434582421 | 711177427 | parking | - |
 | 250932783 | 499523460 | parking | - |
 | 2637744157 | 107633328 | parking | - |
@@ -307,8 +354,6 @@ none
 | 4614343812 | 77703480 | parking | - |
 | 4614343820 | 466691681 | parking | - |
 | 4725924009 | 751967983 | parking | - |
-| 4775687036 | 484816103 | parking | - |
-| 4775687064 | 484816100 | parking | - |
 | 4888327777 | 497242688 | parking | - |
 | 4888327780 | 497242688 | parking | - |
 | 5037163501 | 515889295 | parking | - |
@@ -429,8 +474,6 @@ none
 | 6247991882 | 667314127 | parking | - |
 | 6248007586 | 751115420 | parking | - |
 | 6248007587 | 584955021 | parking | - |
-| 6281209762 | 670737046 | parking | - |
-| 6281209763 | 670737046 | parking | - |
 | 6316126481 | 674434712 | parking | - |
 | 6316126483 | 674434713 | parking | - |
 | 6343029691 | 677425819 | parking | - |
@@ -454,12 +497,9 @@ none
 | 6377051261 | 681012600 | parking | - |
 | 6377051264 | 681012601 | parking | - |
 | 6377051268 | 681012603 | parking | - |
-| 6381222357 | 681416139 | parking | - |
 | 6381222359 | 115630368 | parking | - |
-| 6381286558 | 681423187 | parking | - |
 | 6381286559 | 681423187 | parking | - |
 | 6381286560 | 681423188 | parking | - |
-| 6381286561 | 681423188 | parking | - |
 | 6381295465 | 681424111 | parking | - |
 | 6381295468 | 681424112 | parking | - |
 | 6381295470 | 167467357 | parking | - |
@@ -483,17 +523,14 @@ none
 | 6384549830 | 681757449 | parking | - |
 | 6385667732 | 681869341 | parking | - |
 | 6385667741 | 681869344 | parking | - |
-| 6385667742 | 681869344 | parking | - |
 | 6386116172 | 681914177 | parking | - |
 | 6386116181 | 681914181 | parking | - |
-| 6386116880 | 681914199 | parking | - |
 | 6386333294 | 681935279 | parking | - |
 | 6386333303 | 681935283 | parking | - |
 | 6386333306 | 681914177 | parking | - |
 | 6386333315 | 681935289 | parking | - |
 | 6386333317 | 681935291 | parking | - |
 | 6386565674 | 681974180 | parking | - |
-| 6386565675 | 681974181 | parking | - |
 | 6392138500 | 682554402 | parking | - |
 | 6392138502 | 682554403 | parking | - |
 | 6392138507 | 682554404 | parking | - |
@@ -506,17 +543,14 @@ none
 | 6414931429 | 684646558 | parking | - |
 | 6414931430 | 684646559 | parking | - |
 | 6414931431 | 684646560 | parking | - |
-| 6441408598 | 687215340 | parking | - |
 | 6446607619 | 687672129 | parking | - |
 | 6446607678 | 687672141 | parking | - |
 | 6446607786 | 687672142 | parking | - |
 | 6446607798 | 687672144 | parking | - |
 | 6446607802 | 687672146 | parking | - |
 | 6446607813 | 687672148 | parking | - |
-| 6478161247 | 690496637 | parking | - |
 | 6478161277 | 690496640 | parking | - |
 | 6478161284 | 690496642 | parking | - |
-| 6478161547 | 76726962 | parking | - |
 | 6479475528 | 690593047 | parking | - |
 | 6479475531 | 690593049 | parking | - |
 | 6479475533 | 690593051 | parking | - |
@@ -559,11 +593,6 @@ none
 | 6516589667 | 694095959 | parking | - |
 | 6516589673 | 694095961 | parking | - |
 | 6516589676 | 694095962 | parking | - |
-| 6516674052 | 694104401 | parking | - |
-| 6516674054 | 694104401 | parking | - |
-| 6516674057 | 694104402 | parking | - |
-| 6516674060 | 694104403 | parking | - |
-| 6516674062 | 694104403 | parking | - |
 | 6542779426 | 696707704 | parking | - |
 | 6547945830 | 697172840 | parking | - |
 | 6555326754 | 698013429 | parking | - |
@@ -572,8 +601,6 @@ none
 | 6555326776 | 698013436 | parking | - |
 | 6566237784 | 699241049 | parking | - |
 | 6584252836 | 701099225 | parking | - |
-| 6584252837 | 701099225 | parking | - |
-| 6586695007 | 701335463 | parking | - |
 | 6586695017 | 701335464 | parking | - |
 | 6586705200 | 701335468 | parking | - |
 | 6586705218 | 701335473 | parking | - |
@@ -637,15 +664,11 @@ none
 | 6881965406 | 734831813 | parking | - |
 | 6913342030 | 738307857 | parking | - |
 | 6913342032 | 738307858 | parking | - |
-| 6936173783 | 740864638 | parking | - |
-| 6936181713 | 740864686 | parking | - |
-| 6936181714 | 740864686 | parking | - |
 | 6937370248 | 740990642 | parking | - |
 | 6937370251 | 740990643 | parking | - |
 | 6937370254 | 740990644 | parking | - |
 | 6937370257 | 740990645 | parking | - |
 | 6937370260 | 740990646 | parking | - |
-| 6937370273 | 740990650 | parking | - |
 | 6937370276 | 740990651 | parking | - |
 | 6937370279 | 740990652 | parking | - |
 | 6937370282 | 740990653 | parking | - |
@@ -657,7 +680,6 @@ none
 | 6937387200 | 740990659 | parking | - |
 | 6937387203 | 740990660 | parking | - |
 | 6937387206 | 740990661 | parking | - |
-| 6937387209 | 740990662 | parking | - |
 | 6938167426 | 741090555 | parking | - |
 | 6938602100 | 741148493 | parking | - |
 | 6938602104 | 741148494 | parking | - |
@@ -711,8 +733,6 @@ none
 | 6958325838 | 743390018 | parking | - |
 | 6958325846 | 743390021 | parking | - |
 | 6960505518 | 743693686 | parking | - |
-| 6960505521 | 743693687 | parking | - |
-| 6960505523 | 743693688 | parking | - |
 | 6960505529 | 743693690 | parking | - |
 | 6960505531 | 743693691 | parking | - |
 | 6960505535 | 743693692 | parking | - |
@@ -735,8 +755,6 @@ none
 | 6960505657 | 743693738 | parking | - |
 | 6960505660 | 743693739 | parking | - |
 | 6960505689 | 743693748 | parking | - |
-| 6960505707 | 743693753 | parking | - |
-| 6960505708 | 743693753 | parking | - |
 | 6961249816 | 681424125 | parking | - |
 | 6961249825 | 743770735 | parking | - |
 | 6961249828 | 743770736 | parking | - |
@@ -835,8 +853,6 @@ none
 | 7029411165 | 751967917 | parking | - |
 | 7029411168 | 751967918 | parking | - |
 | 7029411171 | 751967919 | parking | - |
-| 7029411198 | 751967928 | parking | - |
-| 7029411200 | 751967929 | parking | - |
 | 7029411203 | 751967930 | parking | - |
 | 7029411205 | 751967931 | parking | - |
 | 7029411208 | 751967932 | parking | - |
@@ -852,7 +868,6 @@ none
 | 7029411238 | 751967942 | parking | - |
 | 7029411240 | 751967943 | parking | - |
 | 7029411243 | 751967944 | parking | - |
-| 7029411247 | 751967945 | parking | - |
 | 7029411264 | 751967951 | parking | - |
 | 7029411267 | 751967952 | parking | - |
 | 7029411272 | 751967954 | parking | - |
@@ -1139,7 +1154,7 @@ No traps: every node inside the bbox can reach and be reached from the main netw
 
 ## Barriers
 
-- curb 4171, parapet 111, guardrail 45, median 41, soundwall 27, roadblock 151
+- curb 4080, parapet 107, guardrail 40, median 42, soundwall 25, roadblock 176
 
 ## Buildings
 
